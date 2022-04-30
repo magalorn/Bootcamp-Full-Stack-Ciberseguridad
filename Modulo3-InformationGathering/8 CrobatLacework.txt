@@ -1,0 +1,16 @@
+api.lacework.net
+beta.lacework.net
+collector.lacework.net
+docserver.lacework.net
+ingressdemo.services-internal.corp.lacework.net
+jenkins.devtest.corp.lacework.net
+lacework.net
+login.lacework.net
+prodn3.corp1.lacework.net
+solvertest.lacework.net
+teleport.lacework.net
+vpn.corp.lacework.net
+vpn-devtest.corp.lacework.net
+vpn-prod.corp.lacework.net
+www1.lacework.net
+lacework.com

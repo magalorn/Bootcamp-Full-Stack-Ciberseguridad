@@ -1,0 +1,277 @@
+Source                          Type                                            Data
+sfp_urlscan                     Web Server                                      cloudflare
+sfp_urlscan                     Web Server                                      nginx
+sfp_urlscan                     Web Server                                      cloudflare
+sfp_urlscan                     Web Server                                      nginx
+sfp_urlscan                     Web Server                                      cloudflare
+sfp_urlscan                     Web Server                                      nginx
+sfp_urlscan                     Web Server                                      cloudflare
+sfp_urlscan                     Web Server                                      nginx
+sfp_urlscan                     Web Server                                      cloudflare
+
+
+Source                              Type                                              Data
+sfp_skymem                      Email Address                              info@lacework.net
+sfp_skymem                      Email Address                                dan@lacework.net
+sfp_skymem                      Email Address                             amy.vosters@lacework.net
+sfp_skymem                      Email Address                           sanjay_kalra@lacework.net
+sfp_skymem                      Email Address                         customersuccess@lacework.net
+sfp_skymem                      Email Address                                   legal@lacework.net
+sfp_skymem                      Email Address                          jason_choi@lacework.com
+sfp_skymem                      Email Address                                   info@lacework.com
+sfp_skymem                      Email Address                                   jason@lacework.com
+sfp_skymem                      Email Address                                   jchoi@lacework.com
+sfp_skymem                      Email Address                                   idumont@lacework.com
+
+
+Source                          Type                                            Data
+sfp_skymem                      Email Address - Generic                         sales@lacework.com
+sfp_skymem                      Email Address - Generic                        marketing@lacework.com
+
+
+
+
+Source                          Type                                            Data\
+SpiderFoot UI                   Internet Name                                   lacework.com\
+SpiderFoot UI                   Domain Name                                     lacework.com\
+sfp_tldsearch                   Similar Domain                                  lacework.ai\
+sfp_tldsearch                   Similar Domain                                  lacework.am\
+sfp_tldsearch                   Similar Domain                                  lacework.ar\
+sfp_tldsearch                   Similar Domain                                  lacework.at\
+sfp_tldsearch                   Similar Domain                                  lacework.asia\
+sfp_tldsearch                   Similar Domain                                  lacework.com.au\
+sfp_tldsearch                   Similar Domain                                  lacework.ba\
+sfp_tldsearch                   Similar Domain                                  lacework.be\
+sfp_tldsearch                   Similar Domain                                  lacework.biz\
+sfp_tldsearch                   Similar Domain                                  lacework.com.br\
+sfp_tldsearch                   Similar Domain                                  lacework.by\
+sfp_tldsearch                   Similar Domain                                  lacework.bz\
+sfp_tldsearch                   Similar Domain                                  lacework.ca\
+sfp_tldsearch                   Similar Domain                                  lacework.cf\
+sfp_tldsearch                   Similar Domain                                  lacework.cl\
+sfp_tldsearch                   Similar Domain                                  lacework.cm\
+sfp_tldsearch                   Similar Domain                                  lacework.org.cn\
+sfp_tldsearch                   Similar Domain                                  lacework.net.cn\
+sfp_tldsearch                   Similar Domain                                  lacework.com.co\
+sfp_tldsearch                   Similar Domain                                  lacework.cr\
+sfp_tldsearch                   Similar Domain                                  lacework.dk\
+sfp_tldsearch                   Similar Domain                                  lacework.de\
+sfp_tldsearch                   Similar Domain                                  lacework.ec\
+sfp_tldsearch                   Similar Domain                                  lacework.com.ec\
+sfp_tldsearch                   Similar Domain                                  lacework.es\
+sfp_tldsearch                   Similar Domain                                  lacework.fi\
+sfp_tldsearch                   Similar Domain                                  lacework.fr\
+sfp_tldsearch                   Similar Domain                                  lacework.ga\
+sfp_tldsearch                   Similar Domain                                  lacework.gq\
+sfp_tldsearch                   Similar Domain                                  lacework.gr\
+sfp_tldsearch                   Similar Domain                                  lacework.com.hk\
+sfp_tldsearch                   Similar Domain                                  lacework.hu\
+sfp_tldsearch                   Similar Domain                                  lacework.ie\
+sfp_tldsearch                   Similar Domain                                  lacework.co.il\
+sfp_tldsearch                   Similar Domain                                  lacework.im\
+sfp_tldsearch                   Similar Domain                                  lacework.in\
+sfp_tldsearch                   Similar Domain                                  lacework.info\
+sfp_tldsearch                   Similar Domain                                  lacework.is\
+sfp_tldsearch                   Similar Domain                                  lacework.it\
+sfp_tldsearch                   Similar Domain                                  lacework.jp\
+sfp_tldsearch                   Similar Domain                                  lacework.co.ke\
+sfp_tldsearch                   Similar Domain                                  lacework.kr\
+sfp_tldsearch                   Similar Domain                                  lacework.co.kr\
+sfp_tldsearch                   Similar Domain                                  lacework.kz\
+sfp_tldsearch                   Similar Domain                                  lacework.com.kz\
+sfp_tldsearch                   Similar Domain                                  lacework.la\
+sfp_tldsearch                   Similar Domain                                  lacework.li\
+sfp_tldsearch                   Similar Domain                                  lacework.lt\
+sfp_tldsearch                   Similar Domain                                  lacework.lu\
+sfp_tldsearch                   Similar Domain                                  lacework.lv\
+sfp_tldsearch                   Similar Domain                                  lacework.ma\
+sfp_tldsearch                   Similar Domain                                  lacework.md\
+sfp_tldsearch                   Similar Domain                                  lacework.me\
+sfp_tldsearch                   Similar Domain                                  lacework.ml\
+sfp_tldsearch                   Similar Domain                                  lacework.mx\
+sfp_tldsearch                   Similar Domain                                  lacework.com.mx\
+sfp_tldsearch                   Similar Domain                                  lacework.my\
+sfp_tldsearch                   Similar Domain                                  lacework.com.my\
+sfp_tldsearch                   Similar Domain                                  lacework.com.ng\
+sfp_tldsearch                   Similar Domain                                  lacework.ng\
+sfp_tldsearch                   Similar Domain                                  lacework.no\
+sfp_tldsearch                   Similar Domain                                  lacework.nl\
+sfp_tldsearch                   Similar Domain                                  lacework.nu\
+sfp_tldsearch                   Similar Domain                                  lacework.co.nz\
+sfp_tldsearch                   Similar Domain                                  lacework.nz\
+sfp_tldsearch                   Similar Domain                                  lacework.com.pa\
+sfp_tldsearch                   Similar Domain                                  lacework.pe\
+sfp_tldsearch                   Similar Domain                                  lacework.com.pe\
+sfp_tldsearch                   Similar Domain                                  lacework.pk\
+sfp_tldsearch                   Similar Domain                                  lacework.pl\
+sfp_tldsearch                   Similar Domain                                  lacework.pro\
+sfp_tldsearch                   Similar Domain                                  lacework.pt\
+sfp_tldsearch                   Similar Domain                                  lacework.pw\
+sfp_tldsearch                   Similar Domain                                  lacework.com.py\
+sfp_tldsearch                   Similar Domain                                  lacework.qa\
+sfp_tldsearch                   Similar Domain                                  lacework.ro\
+sfp_tldsearch                   Similar Domain                                  lacework.rs\
+sfp_tldsearch                   Similar Domain                                  lacework.ru\
+sfp_tldsearch                   Similar Domain                                  lacework.se\
+sfp_tldsearch                   Similar Domain                                  lacework.com.sg\
+sfp_tldsearch                   Similar Domain                                  lacework.sg\
+sfp_tldsearch                   Similar Domain                                  lacework.sk\
+sfp_tldsearch                   Similar Domain                                  lacework.tel\
+sfp_tldsearch                   Similar Domain                                  lacework.tk\
+sfp_tldsearch                   Similar Domain                                  lacework.tn\
+sfp_tldsearch                   Similar Domain                                  lacework.to\
+sfp_tldsearch                   Similar Domain                                  lacework.tv\
+sfp_tldsearch                   Similar Domain                                  lacework.tw\
+sfp_tldsearch                   Similar Domain                                  lacework.com.tw\
+sfp_tldsearch                   Similar Domain                                  lacework.uk\
+sfp_tldsearch                   Similar Domain                                  lacework.co.uk\
+sfp_tldsearch                   Similar Domain                                  lacework.com.uy\
+sfp_tldsearch                   Similar Domain                                  lacework.uz\
+sfp_tldsearch                   Similar Domain                                  lacework.vn\
+sfp_tldsearch                   Similar Domain                                  lacework.com.vn\
+sfp_tldsearch                   Similar Domain                                  lacework.co.za\
+sfp_tldsearch                   Similar Domain                                  lacework.app\
+sfp_tldsearch                   Similar Domain                                  lacework.club\
+sfp_tldsearch                   Similar Domain                                  lacework.cloud\
+sfp_tldsearch                   Similar Domain                                  lacework.page\
+sfp_tldsearch                   Similar Domain                                  lacework.shop\
+sfp_tldsearch                   Similar Domain                                  lacework.site\
+sfp_tldsearch                   Similar Domain                                  lacework.store\
+sfp_tldsearch                   Similar Domain                                  lacework.tech\
+sfp_tldsearch                   Similar Domain                                  lacework.top\
+sfp_tldsearch                   Similar Domain                                  lacework.vip\
+sfp_tldsearch                   Similar Domain                                  lacework.duckdns.org\
+sfp_tldsearch                   Similar Domain                                  lacework.ddns.net\
+sfp_tldsearch                   Similar Domain                                  lacework.cust.dev.thingdust.io\
+sfp_tldsearch                   Similar Domain                                  lacework.cust.disrec.thingdust.io\
+sfp_tldsearch                   Similar Domain                                  lacework.reservd.disrec.thingdust.io\
+                                                                                                                                   
+
+
+
+Source                          Type                                            Data\
+SpiderFoot UI                   Internet Name                                   lacework.com\
+SpiderFoot UI                   Domain Name                                     lacework.com\
+sfp_dnsresolve                  Domain Name                                     lacework.com\
+sfp_dnsresolve                  IP Address                                      141.193.213.21\
+sfp_dnsresolve                  IP Address                                      141.193.213.20\
+sfp_dnsbrute                    Internet Name                                   blog.lacework.com\
+sfp_dnsresolve                  Internet Name                                   rjzg2xa8fzq0.wpeproxy.com\
+sfp_dnsresolve                  Domain Name (Parent)                            wpeproxy.com\
+sfp_dnsresolve                  IP Address                                      141.193.213.21\
+sfp_dnsresolve                  IP Address                                      141.193.213.20\
+sfp_dnsbrute                    Internet Name                                   community.lacework.com\
+sfp_dnsresolve                  IPv6 Address                                    2602:fd3f:3:ff01::ca\
+sfp_dnsresolve                  IP Address                                      64.71.144.202\
+sfp_dnsresolve                  Internet Name                                   lacework.hosted-by-discourse.com\
+sfp_dnsresolve                  Domain Name (Parent)                            hosted-by-discourse.com\
+sfp_dnsresolve                  IPv6 Address                                    2602:fd3f:3:ff01::ca\
+sfp_dnsbrute                    Internet Name                                   de.lacework.com\
+sfp_dnsresolve                  IP Address                                      54.145.67.249\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  Domain Name (Parent)                            smartling.com\
+sfp_dnsresolve                  IP Address                                      54.205.199.210\
+sfp_dnsresolve                  IP Address                                      54.156.233.42\
+sfp_dnsresolve                  Internet Name                                   ec2-54-145-67-249.compute-1.amazonaws.com\
+sfp_dnsresolve                  Domain Name (Parent)                            amazonaws.com\
+sfp_dnsresolve                  Internet Name                                   ec2-54-205-199-210.compute-1.amazonaws.com\
+sfp_dnsbrute                    Internet Name                                   docs.lacework.com\
+sfp_dnsresolve                  Internet Name                                   ec2-54-156-233-42.compute-1.amazonaws.com\
+sfp_dnsresolve                  IPv6 Address                                    2a05:d01c:55d:b900:9bc:7577:7817:10ae\
+sfp_dnsresolve                  Internet Name                                   docslw.netlifyglobalcdn.com\
+sfp_dnsresolve                  Domain Name (Parent)                            netlifyglobalcdn.com\
+sfp_dnsresolve                  IPv6 Address                                    2a05:d01c:55d:b900:9bc:7577:7817:10ae\
+sfp_dnsresolve                  IPv6 Address                                    2a05:d01c:55d:b902:16ce:3a19:d831:50fd\
+sfp_dnsresolve                  IP Address                                      52.56.244.77\
+sfp_dnsresolve                  IPv6 Address                                    2a05:d01c:55d:b902:16ce:3a19:d831:50fd\
+sfp_dnsresolve                  IP Address                                      18.135.78.54\
+sfp_dnsbrute                    Internet Name                                   es.lacework.com\
+sfp_dnsresolve                  Internet Name                                   ec2-52-56-244-77.eu-west-2.compute.amazonaws.com\
+sfp_dnsresolve                  Internet Name                                   ec2-18-135-78-54.eu-west-2.compute.amazonaws.com\
+sfp_dnsbrute                    Internet Name                                   fr.lacework.com\
+sfp_dnsresolve                  IP Address                                      54.145.67.249\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  IP Address                                      54.205.199.210\
+sfp_dnsresolve                  IP Address                                      54.156.233.42\
+sfp_dnsresolve                  IP Address                                      54.145.67.249\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  IP Address                                      54.205.199.210\
+sfp_dnsresolve                  IP Address                                      54.156.233.42\
+sfp_dnsbrute                    Internet Name                                   info.lacework.com\
+sfp_dnsresolve                  Internet Name                                   sj25.mktossl.com\
+sfp_dnsresolve                  Domain Name (Parent)                            mktossl.com\
+sfp_dnsresolve                  IP Address                                      104.17.72.206\
+sfp_dnsresolve                  IP Address                                      104.17.71.206\
+sfp_dnsresolve                  IP Address                                      104.17.73.206\
+sfp_dnsresolve                  Internet Name                                   laceworkinc.mktoweb.com\
+sfp_dnsresolve                  Domain Name (Parent)                            mktoweb.com\
+sfp_dnsresolve                  IP Address                                      104.17.70.206\
+sfp_dnsresolve                  IP Address                                      104.17.74.206\
+sfp_dnsbrute                    Internet Name                                   it.lacework.com\
+sfp_dnsbrute                    Internet Name                                   jp.lacework.com\
+sfp_dnsresolve                  IP Address                                      54.145.67.249\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  IP Address                                      54.205.199.210\
+sfp_dnsresolve                  IP Address                                      54.156.233.42\
+sfp_dnsresolve                  IP Address                                      54.145.67.249\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  IP Address                                      54.205.199.210\
+sfp_dnsresolve                  IP Address                                      54.156.233.42\
+sfp_dnsbrute                    Internet Name                                   nl.lacework.com\
+sfp_dnsresolve                  IP Address                                      54.145.67.249\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  IP Address                                      54.205.199.210\
+sfp_dnsresolve                  IP Address                                      54.156.233.42\
+sfp_dnsbrute                    Internet Name                                   partners.lacework.com\
+sfp_dnsresolve                  Internet Name                                   prm2.impartner.com\
+sfp_dnsresolve                  Domain Name (Parent)                            impartner.com\
+sfp_dnsresolve                  IP Address                                      209.170.205.127\
+sfp_dnsresolve                  Internet Name                                   laceworklapp.prod.impartner.live\
+sfp_dnsresolve                  Domain Name (Parent)                            impartner.live\
+sfp_dnsbrute                    Internet Name                                   support.lacework.com\
+sfp_dnsresolve                  IP Address                                      104.16.51.111\
+sfp_dnsresolve                  IP Address                                      104.16.53.111\
+sfp_dnsresolve                  Internet Name                                   lacework.zendesk.com\
+sfp_dnsresolve                  Domain Name (Parent)                            zendesk.com\
+sfp_dnsbrute                    Internet Name                                   www.lacework.com\
+sfp_dnsresolve                  Internet Name                                   rjzg2xa8fzq0.wpeproxy.com\
+sfp_dnsresolve                  IP Address                                      141.193.213.21\
+sfp_dnsresolve                  IP Address                                      141.193.213.20\
+\
+\
+Source                          Type                                            Data\
+SpiderFoot UI                   Internet Name                                   lacework.com\
+sfp_dnsbrute                    Internet Name                                   blog.lacework.com\
+sfp_dnsresolve                  Internet Name                                   rjzg2xa8fzq0.wpeproxy.com\
+sfp_dnsbrute                    Internet Name                                   community.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.hosted-by-discourse.com\
+sfp_dnsbrute                    Internet Name                                   de.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  Internet Name                                   ec2-54-145-67-249.compute-1.amazonaws.com\
+sfp_dnsbrute                    Internet Name                                   docs.lacework.com\
+sfp_dnsresolve                  Internet Name                                   ec2-54-156-233-42.compute-1.amazonaws.com\
+sfp_dnsresolve                  Internet Name                                   ec2-54-205-199-210.compute-1.amazonaws.com\
+sfp_dnsresolve                  Internet Name                                   docslw.netlifyglobalcdn.com\
+sfp_dnsbrute                    Internet Name                                   es.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsresolve                  Internet Name                                   ec2-18-135-239-82.eu-west-2.compute.amazonaws.com\
+sfp_dnsresolve                  Internet Name                                   ec2-18-135-78-54.eu-west-2.compute.amazonaws.com\
+sfp_dnsbrute                    Internet Name                                   fr.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsbrute                    Internet Name                                   info.lacework.com\
+sfp_dnsresolve                  Internet Name                                   laceworkinc.mktoweb.com\
+sfp_dnsresolve                  Internet Name                                   sj25.mktossl.com\
+sfp_dnsbrute                    Internet Name                                   it.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsbrute                    Internet Name                                   jp.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsbrute                    Internet Name                                   nl.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.sl.smartling.com\
+sfp_dnsbrute                    Internet Name                                   partners.lacework.com\
+sfp_dnsresolve                  Internet Name                                   prm2.impartner.com\
+sfp_dnsresolve                  Internet Name                                   laceworklapp.prod.impartner.live\
+sfp_dnsbrute                    Internet Name                                   support.lacework.com\
+sfp_dnsresolve                  Internet Name                                   lacework.zendesk.com\
+sfp_dnsbrute                    Internet Name                                   www.lacework.com\
+sfp_dnsresolve                  Internet Name                                   rjzg2xa8fzq0.wpeproxy.com\
+}

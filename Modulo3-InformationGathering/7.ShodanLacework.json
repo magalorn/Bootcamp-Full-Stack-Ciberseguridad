@@ -1,0 +1,130 @@
+lacework.com
+
+{"subdomain": "careers", "type": "CNAME", "value": "rjzg2xa8fzq0.wpeproxy.com", "last_seen": "2022-01-24T20:00:51.906205+00:00"}
+{"subdomain": "de.support", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.487180+00:00"}
+{"subdomain": "es", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.513738+00:00"}
+{"subdomain": "es.support", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.084615+00:00"}
+{"subdomain": "fr.support", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.117665+00:00"}
+{"subdomain": "info", "type": "CNAME", "value": "laceworkinc.mktoweb.com", "last_seen": "2022-01-04T17:59:39.618053+00:00"}
+{"subdomain": "it.support", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.351323+00:00"}
+{"subdomain": "jp", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.609260+00:00"}
+{"subdomain": "jp.support", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.531340+00:00"}
+{"subdomain": "nht", "type": "CNAME", "value": "nht.lacework.com.skilljarapp.com", "last_seen": "2022-01-15T09:26:10.376206+00:00"}
+{"subdomain": "nl", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.578328+00:00"}
+{"subdomain": "nl.support", "type": "CNAME", "value": "lacework.sl.smartling.com", "last_seen": "2022-01-14T06:43:39.551572+00:00"}
+{"subdomain": "support", "type": "CNAME", "value": "lacework.zendesk.com", "last_seen": "2022-01-18T08:38:30.170138+00:00"}
+{"subdomain": "www", "type": "CNAME", "value": "rjzg2xa8fzq0.wpeproxy.com", "last_seen": "2021-12-30T21:51:36.823074+00:00"}
+
+
+lacework.net
+
+
+{"tags": ["cloud"], "subdomain": "", "type": "A", "ports": [80], "value": "52.92.131.51", "last_seen": "2022-01-02T05:42:24.779935+00:00"}
+{"subdomain": "", "type": "MX", "value": "aspmx.l.google.com", "last_seen": "2022-01-02T05:42:24.756894+00:00"}
+{"subdomain": "", "type": "MX", "value": "aspmx3.googlemail.com", "last_seen": "2022-01-02T05:42:24.764320+00:00"}
+{"subdomain": "", "type": "MX", "value": "alt2.aspmx.l.google.com", "last_seen": "2022-01-02T05:42:24.771956+00:00"}
+{"subdomain": "", "type": "MX", "value": "aspmx2.googlemail.com", "last_seen": "2022-01-02T05:42:24.760656+00:00"}
+{"subdomain": "", "type": "MX", "value": "alt1.aspmx.l.google.com", "last_seen": "2022-01-02T05:42:24.768625+00:00"}
+{"subdomain": "", "type": "NS", "value": "ns-1814.awsdns-34.co.uk", "last_seen": "2022-01-02T05:42:24.536410+00:00"}
+{"subdomain": "", "type": "NS", "value": "ns-685.awsdns-21.net", "last_seen": "2022-01-02T05:42:24.541527+00:00"}
+{"subdomain": "", "type": "NS", "value": "ns-120.awsdns-15.com", "last_seen": "2022-01-02T05:42:24.529864+00:00"}
+{"subdomain": "", "type": "NS", "value": "ns-1516.awsdns-61.org", "last_seen": "2022-01-02T05:42:24.533407+00:00"}
+{"subdomain": "", "type": "SOA", "value": "ns-120.awsdns-15.com", "last_seen": "2022-01-02T05:42:24.777024+00:00"}
+{"subdomain": "", "type": "TXT", "value": "amazonses:vFy0tFzVHJOopVwBpjWbVKttd250UfCLfR/ARxaJDzM=", "last_seen": "2022-01-02T05:42:24.558496+00:00"}
+{"subdomain": "", "type": "TXT", "value": "atlassian-domain-verification=hmfjUAEl7kwUhS6qujqGqYpAUHuObq9ZzI0my5tYplkF4TVac0iJYOFdiACo8gnZ", "last_seen": "2022-01-02T05:42:24.567477+00:00"}
+{"subdomain": "", "type": "TXT", "value": "h1-domain-verification=js1WGn1A9GVaDCEWMProQdzRcjQyixuPQJUwSzFqT3voUrVW", "last_seen": "2022-01-02T05:42:24.736358+00:00"}
+{"subdomain": "", "type": "TXT", "value": "v=spf1 include:_spf.google.com include:stspg-customer.com ~all", "last_seen": "2022-01-02T05:42:24.750385+00:00"}
+{"subdomain": "", "type": "TXT", "value": "MS=ms34808718", "last_seen": "2022-01-02T05:42:24.554292+00:00"}
+{"subdomain": "", "type": "TXT", "value": "270o64f2pqm8fnud3dcna0ef79", "last_seen": "2022-01-02T05:42:24.545567+00:00"}
+{"subdomain": "", "type": "TXT", "value": "ca3-565b642bd9d94d999b2b47534c862f7a", "last_seen": "2022-01-02T05:42:24.717909+00:00"}
+{"subdomain": "", "type": "TXT", "value": "apple-domain-verification=4TOWBJYkfPYjzBEa", "last_seen": "2022-01-02T05:42:24.563888+00:00"}
+{"subdomain": "", "type": "TXT", "value": "MS=ms17689786", "last_seen": "2022-01-02T05:42:24.549718+00:00"}
+{"subdomain": "", "type": "TXT", "value": "atlassian-domain-verification=wPajRfdYpeZhvYcI1cNLVZ6PBlLRMBzlZT7Sa687pjJsQlZWdc0Vc3Zy9hlsagjZ", "last_seen": "2022-01-02T05:42:24.620389+00:00"}
+{"subdomain": "", "type": "TXT", "value": "cloudhealth=8e33519a-2b33-4b09-9071-51ab7f6c6c0c", "last_seen": "2022-01-02T05:42:24.723930+00:00"}
+{"subdomain": "", "type": "TXT", "value": "drift-domain-verification=345b00154d1e3d9ac12443b991aee21e08160bf87e150cdb9f581ca1045add30", "last_seen": "2022-01-02T05:42:24.728073+00:00"}
+{"subdomain": "", "type": "TXT", "value": "google-site-verification=Y0DIQtaL_QMrlRewZ_Zt7uWsyEXcXs__AeHp6E-Iwlg", "last_seen": "2022-01-02T05:42:24.732878+00:00"}
+{"subdomain": "", "type": "TXT", "value": "status-page-domain-verification=r62v36zbq5br", "last_seen": "2022-01-02T05:42:24.743140+00:00"}
+{"subdomain": "", "type": "TXT", "value": "zapier-domain-verification-challenge=ea678191-6310-46b3-b621-80e2c2571fa5", "last_seen": "2022-01-02T05:42:24.754557+00:00"}
+{"tags": ["cloud"], "subdomain": "*", "type": "A", "ports": [80, 443], "value": "52.35.54.98", "last_seen": "2022-01-09T21:21:49.411951+00:00"}
+{"tags": ["cloud"], "subdomain": "*", "type": "A", "ports": [80, 443], "value": "34.209.102.252", "last_seen": "2022-01-09T21:21:49.309866+00:00"}
+{"tags": ["cloud"], "subdomain": "*", "type": "A", "ports": [80, 443], "value": "35.164.176.181", "last_seen": "2022-01-09T21:21:49.290073+00:00"}
+{"subdomain": "*.autopush1.corp", "type": "CNAME", "value": "autopush1-nlb-no-eips-49db0e3a5c51f065.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-16T06:38:17.761681+00:00"}
+{"subdomain": "*.autopush3.corp", "type": "CNAME", "value": "autopush3-nlb-no-eips-fce7273867b942db.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-29T09:55:54.974017+00:00"}
+{"subdomain": "*.dev1.corp", "type": "CNAME", "value": "dev1-nlb-no-eips-b1346a3be129c485.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-17T13:45:50.094664+00:00"}
+{"subdomain": "*.dev2.corp", "type": "CNAME", "value": "dev2-nlb-no-eips-6e31d0e45c35811b.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-18T03:57:54.170223+00:00"}
+{"subdomain": "*.dev4-lian.lian.corp", "type": "CNAME", "value": "qa12-lian-no-eips-6367d5a806fc0682.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-14T19:14:46.820221+00:00"}
+{"subdomain": "*.dev4.corp", "type": "CNAME", "value": "dev4-nlb-no-eips-bb2f03e5e3c28ba5.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-04T21:00:20.337216+00:00"}
+{"subdomain": "*.dev4.lian.corp", "type": "CNAME", "value": "qa12-lian-no-eips-6367d5a806fc0682.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-27T23:09:40.479721+00:00"}
+{"subdomain": "*.dev4lian.lian.corp", "type": "CNAME", "value": "dev4lian-lian-no-eips-b813c07e5e2e9bd3.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-14T20:33:35.421033+00:00"}
+{"subdomain": "*.dev5.corp", "type": "CNAME", "value": "dev5-nlb-no-eips-652b382a3186ec30.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-24T03:53:11.754140+00:00"}
+{"subdomain": "*.dev6.corp", "type": "CNAME", "value": "dev6-eks.corp2.lacework.net", "last_seen": "2022-01-11T20:12:37.132190+00:00"}
+{"subdomain": "*.dev6.corp2", "type": "CNAME", "value": "tf-dev6-nlb-without-eips-c8cd6dfa3c7986ca.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-29T18:54:58.468332+00:00"}
+{"subdomain": "*.dev7.corp", "type": "CNAME", "value": "dev7-nlb-no-eips-f8cf23dda3abc375.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-26T21:56:02.330243+00:00"}
+{"subdomain": "*.dev8.corp", "type": "CNAME", "value": "dev8-nlb-no-eips-0fe37b940d5ed810.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-13T01:39:01.776672+00:00"}
+{"subdomain": "*.devperf.corp", "type": "CNAME", "value": "devperf1-nlb-no-eips-feaa9ab23de8662e.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-26T09:38:02.288576+00:00"}
+{"subdomain": "*.eudev1.fra.corp", "type": "CNAME", "value": "eudev1-nlb-no-eips-e5d718bd2112a518.elb.eu-central-1.amazonaws.com", "last_seen": "2022-01-12T21:17:50.599663+00:00"}
+{"subdomain": "*.fra", "type": "CNAME", "value": "fra.lacework.net.cdn.cloudflare.net", "last_seen": "2021-12-26T20:34:35.186519+00:00"}
+{"subdomain": "*.hack3rs.corp", "type": "CNAME", "value": "hack3rs1.corp4.lacework.net", "last_seen": "2022-01-13T18:23:12.223296+00:00"}
+{"subdomain": "*.kong.dev6.corp2", "type": "CNAME", "value": "tf-dev6-nlb-without-eips-c8cd6dfa3c7986ca.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-16T16:04:33.068905+00:00"}
+{"subdomain": "*.lian.corp", "type": "CNAME", "value": "qa12-lian-no-eips-6367d5a806fc0682.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-13T16:33:09.524740+00:00"}
+{"subdomain": "*.lian02.corp2", "type": "CNAME", "value": "kibo2-nlb-no-eips-38c790df786d8a7d.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-29T17:35:37.871026+00:00"}
+{"subdomain": "*.preprod.corp", "type": "CNAME", "value": "preprod1.corp.lacework.net", "last_seen": "2021-12-30T11:25:12.968804+00:00"}
+{"subdomain": "*.qa1.corp", "type": "CNAME", "value": "qa1-nlb-no-eips-b8c99ddd8287875e.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-18T09:49:21.515480+00:00"}
+{"subdomain": "*.qa10.corp", "type": "CNAME", "value": "qa10-nlb-no-eips-26fe5321edceefb7.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-06T20:29:35.744273+00:00"}
+{"subdomain": "*.qa11.corp", "type": "CNAME", "value": "qa11-nlb-no-eips-c23f10501ec4acea.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-23T20:22:52.957931+00:00"}
+{"subdomain": "*.qa12.qa12.corp", "type": "CNAME", "value": "qa12-nlb-no-eips-85d0210756096b48.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-13T16:33:10.977998+00:00"}
+{"subdomain": "*.qa2.corp", "type": "CNAME", "value": "qa2-nlb-no-eips-c932db08e9d79eab.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-17T13:45:05.456466+00:00"}
+{"subdomain": "*.qa4.corp", "type": "CNAME", "value": "qa4-nlb-no-eips-6a226010c4e75438.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-17T13:45:10.509459+00:00"}
+{"subdomain": "*.qa6.corp", "type": "CNAME", "value": "qa6.corp2.lacework.net", "last_seen": "2021-12-29T22:55:14.755479+00:00"}
+{"subdomain": "*.spork.corp", "type": "CNAME", "value": "*.spork1.corp1.lacework.net", "last_seen": "2021-12-27T06:46:27.230928+00:00"}
+{"subdomain": "*.spork1.corp1", "type": "CNAME", "value": "spork1-nlb-no-eips-b9893d3407ae41f8.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-27T06:46:27.236144+00:00"}
+{"subdomain": "*.spork2.corp", "type": "CNAME", "value": "spork2.corp5.lacework.net", "last_seen": "2021-12-27T22:23:00.123148+00:00"}
+{"subdomain": "_dmarc", "type": "TXT", "value": "v=DMARC1; p=none; pct=100; rua=mailto:dmarc-reports@lacework.net; adkim=s; aspf=s", "last_seen": "2022-01-02T05:42:24.521027+00:00"}
+{"subdomain": "api.fra", "type": "CNAME", "value": "api.fra.lacework.net.cdn.cloudflare.net", "last_seen": "2022-01-13T11:19:29.781443+00:00"}
+{"subdomain": "arpit.vpn.corp2", "type": "CNAME", "value": "*.cvpn-endpoint-0860b54035f87b67f.prod.clientvpn.us-west-2.amazonaws.com", "last_seen": "2022-01-13T05:07:42.080790+00:00"}
+{"subdomain": "autopush3.corp", "type": "CNAME", "value": "autopush3-nlb-no-eips-fce7273867b942db.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-29T09:55:54.940898+00:00"}
+{"tags": ["cloud"], "subdomain": "csassets", "type": "A", "ports": [80, 443], "value": "13.32.151.114", "last_seen": "2022-01-10T08:11:23.382287+00:00"}
+{"tags": ["cloud"], "subdomain": "csassets", "type": "A", "ports": [80, 443], "value": "13.32.151.49", "last_seen": "2022-01-10T08:11:23.391079+00:00"}
+{"tags": ["cloud"], "subdomain": "csassets", "type": "A", "ports": [80, 443], "value": "13.32.151.2", "last_seen": "2022-01-10T08:11:23.393687+00:00"}
+{"tags": ["cloud"], "subdomain": "csassets", "type": "A", "ports": [80, 443], "value": "13.32.151.95", "last_seen": "2022-01-10T08:11:23.397211+00:00"}
+{"subdomain": "dev1.corp", "type": "CNAME", "value": "dev1-nlb-no-eips-b1346a3be129c485.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-17T13:45:49.959618+00:00"}
+{"subdomain": "dev2.corp", "type": "CNAME", "value": "dev2-nlb-no-eips-6e31d0e45c35811b.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-18T03:57:54.246281+00:00"}
+{"subdomain": "dev3.corp", "type": "CNAME", "value": "dev3-nlb-no-eips-7032c7de7a878f29.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-26T06:18:03.857972+00:00"}
+{"subdomain": "dev4.corp", "type": "CNAME", "value": "dev4-nlb-no-eips-bb2f03e5e3c28ba5.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-11T14:15:40.524296+00:00"}
+{"subdomain": "dev6-eks.corp2", "type": "CNAME", "value": "dev6-nlb-no-eips-a68474791a352d00.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-14T16:58:26.251875+00:00"}
+{"subdomain": "dev6.corp", "type": "CNAME", "value": "dev6-eks.corp2.lacework.net", "last_seen": "2022-01-14T16:58:26.211933+00:00"}
+{"subdomain": "dev6.corp2", "type": "CNAME", "value": "tf-dev6-nlb-without-eips-c8cd6dfa3c7986ca.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-16T15:29:48.866996+00:00"}
+{"subdomain": "dev8.corp", "type": "CNAME", "value": "dev8-nlb-no-eips-0fe37b940d5ed810.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-13T19:26:44.784192+00:00"}
+{"subdomain": "devperf.corp", "type": "CNAME", "value": "devperf1-nlb-no-eips-feaa9ab23de8662e.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-12T06:40:40.135890+00:00"}
+{"tags": ["cloud"], "subdomain": "docserver", "type": "A", "ports": [22, 80, 443], "value": "52.43.232.93", "last_seen": "2022-01-09T22:19:22.609400+00:00"}
+{"subdomain": "eudev1.fra.corp", "type": "CNAME", "value": "eudev1-nlb-no-eips-e5d718bd2112a518.elb.eu-central-1.amazonaws.com", "last_seen": "2022-01-14T05:48:45.638940+00:00"}
+{"subdomain": "hack3rs.corp", "type": "CNAME", "value": "hack3rs1.corp4.lacework.net", "last_seen": "2021-12-27T09:32:11.425896+00:00"}
+{"subdomain": "hack3rs1.corp4", "type": "CNAME", "value": "hack3rs1-nlb-no-eips-7a19eaf25443633c.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-13T18:23:12.228596+00:00"}
+{"subdomain": "kong.dev6.corp2", "type": "CNAME", "value": "tf-dev6-nlb-without-eips-c8cd6dfa3c7986ca.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-16T16:04:32.727105+00:00"}
+{"tags": ["cloud"], "subdomain": "lacework", "type": "A", "ports": [80, 443], "value": "34.209.102.252", "last_seen": "2022-01-13T03:55:11.635830+00:00"}
+{"tags": ["cloud"], "subdomain": "lacework", "type": "A", "ports": [80, 443], "value": "35.164.176.181", "last_seen": "2022-01-13T03:55:11.743093+00:00"}
+{"tags": ["cloud"], "subdomain": "lacework", "type": "A", "ports": [80, 443], "value": "52.35.54.98", "last_seen": "2022-01-13T03:55:11.777084+00:00"}
+{"subdomain": "lian02.corp2", "type": "CNAME", "value": "kibo2-nlb-no-eips-38c790df786d8a7d.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-16T14:06:50.961814+00:00"}
+{"subdomain": "preprod.corp", "type": "CNAME", "value": "preprod1.corp.lacework.net", "last_seen": "2021-12-30T11:25:12.742837+00:00"}
+{"subdomain": "preprod1.corp", "type": "CNAME", "value": "preprod1-nlb-no-eips-e46a3769b7c49fc3.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-30T11:25:12.980027+00:00"}
+{"subdomain": "qa1.corp", "type": "CNAME", "value": "qa1-nlb-no-eips-b8c99ddd8287875e.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-18T09:49:21.499026+00:00"}
+{"subdomain": "qa2.corp", "type": "CNAME", "value": "qa2-nlb-no-eips-c932db08e9d79eab.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-17T13:45:05.388264+00:00"}
+{"subdomain": "qa3.corp", "type": "CNAME", "value": "qa3-nlb-no-eips-3108535345dd0aac.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-17T13:44:09.760587+00:00"}
+{"subdomain": "qa4.corp", "type": "CNAME", "value": "qa4-nlb-no-eips-6a226010c4e75438.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-17T13:45:10.537894+00:00"}
+{"subdomain": "qa6.corp", "type": "CNAME", "value": "qa6.corp2.lacework.net", "last_seen": "2021-12-29T22:55:14.774848+00:00"}
+{"subdomain": "qa6.corp2", "type": "CNAME", "value": "tf-qa6-nlb-e05f9b2fcf5a0dc6.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-29T22:55:14.778131+00:00"}
+{"subdomain": "qa9.corp", "type": "CNAME", "value": "qa9-nlb-no-eips-e9be24bdd4566736.elb.us-west-2.amazonaws.com", "last_seen": "2022-01-06T10:36:47.119136+00:00"}
+{"tags": ["cloud"], "subdomain": "solvertest", "type": "A", "ports": [80, 443], "value": "52.35.54.98", "last_seen": "2022-01-14T16:56:26.933058+00:00"}
+{"tags": ["cloud"], "subdomain": "solvertest", "type": "A", "ports": [80, 443], "value": "34.209.102.252", "last_seen": "2022-01-14T16:56:26.929913+00:00"}
+{"tags": ["cloud"], "subdomain": "solvertest", "type": "A", "ports": [80, 443], "value": "35.164.176.181", "last_seen": "2022-01-14T16:56:26.938157+00:00"}
+{"subdomain": "spork.corp", "type": "CNAME", "value": "spork1.corp1.lacework.net", "last_seen": "2021-12-27T06:46:27.196876+00:00"}
+{"subdomain": "spork1.corp1", "type": "CNAME", "value": "spork1-nlb-no-eips-b9893d3407ae41f8.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-27T06:46:27.202569+00:00"}
+{"subdomain": "spork2.corp5", "type": "CNAME", "value": "spork2-nlb-no-eips-ae9d1d7ce1947e27.elb.us-west-2.amazonaws.com", "last_seen": "2021-12-27T22:23:00.130101+00:00"}
+{"tags": ["cloud"], "subdomain": "teleport", "type": "A", "ports": [443], "value": "34.215.2.45", "last_seen": "2021-12-27T01:48:11.794965+00:00"}
+{"subdomain": "teleport", "type": "A", "value": "52.89.23.49", "last_seen": "2021-12-27T01:48:11.798994+00:00"}
+{"subdomain": "teleport", "type": "A", "value": "44.232.33.18", "last_seen": "2021-12-27T01:48:11.802967+00:00"}
+{"subdomain": "www.fra", "type": "CNAME", "value": "fra.lacework.net.cdn.cloudflare.net", "last_seen": "2022-01-13T11:20:18.976521+00:00"}
+{"tags": ["cloud"], "subdomain": "www1", "type": "A", "ports": [80, 443], "value": "35.164.176.181", "last_seen": "2022-01-05T23:21:32.947439+00:00"}
+{"tags": ["cloud"], "subdomain": "www1", "type": "A", "ports": [80, 443], "value": "34.209.102.252", "last_seen": "2022-01-05T23:21:32.954484+00:00"}
+{"tags": ["cloud"], "subdomain": "www1", "type": "A", "ports": [80, 443], "value": "52.35.54.98", "last_seen": "2022-01-05T23:21:32.951924+00:00"}
+

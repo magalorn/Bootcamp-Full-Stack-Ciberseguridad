@@ -1,0 +1,58 @@
+fuzzer;domain;dns_a;dns_aaaa;dns_ns;dns_mx;geoip
+*original;lacework.com;141.193.213.20;;ns-1297.awsdns-34.org;alt1.aspmx.l.google.com;United States
+addition;laceworks.com;52.218.220.10;;ns-110.awsdns-13.com;;United States
+bitsquatting;lakework.com;188.114.96.15;2a06:98c1:3120::f;clark.ns.cloudflare.com;alt1.aspmx.l.google.com;United States
+bitsquatting;macework.com;3.130.204.160;;ns1.namebrightdns.com;;United States
+homoglyph;lacewọrk.com;34.102.136.180;;ns39.domaincontrol.com;;United States
+insertion;lacedwork.com;35.208.60.190;2a02:fe80:1010::6;ns1.siteground.net;alt1.aspmx.l.google.com;United States
+omission;acework.com;184.154.5.218;;ns1.acework.com;mail.acework.com;United States
+replacement;pacework.com;162.210.96.34;;dns1.pacework.com;mx1.pacework.com;United States
+subdomain;la.cework.com;13.248.216.40;;ns3.afternic.com;;United States
+tld-swap;lacework.app;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.biz;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.cf;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.cn;;;dns7.hichina.com;;
+tld-swap;lacework.co;!ServFail;!ServFail;!ServFail;;
+tld-swap;lacework.de;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.eu;;;ns-1490.awsdns-58.org;;
+tld-swap;lacework.ga;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.gq;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.info;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.ml;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.net;52.218.144.39;;ns-120.awsdns-15.com;alt1.aspmx.l.google.com;United States
+tld-swap;lacework.online;64.190.62.111;;ns1.sedoparking.com;localhost;Germany
+tld-swap;lacework.org;3.64.163.50;!ServFail;ns1.dan.com;;Germany
+tld-swap;lacework.pw;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.site;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.tk;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.top;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.uk;192.64.147.172;;ns1.voodoo.com;;United States
+tld-swap;lacework.xyz;72.52.10.14;;ns1.markmonitor.com;;United States
+
+fuzzer;domain;dns_a;dns_aaaa;dns_ns;dns_mx;geoip
+*original;lacework.net;52.218.137.34;;ns-120.awsdns-15.com;alt1.aspmx.l.google.com;United States
+bitsquatting;macework.net;34.98.99.30;;ns77.domaincontrol.com;;United States
+omission;acework.net;34.102.136.180;;ns13.domaincontrol.com;;United States
+subdomain;lac.ework.net;67.21.93.245;;;;United States
+subdomain;lace.work.net;205.178.189.129;;;;United States
+subdomain;lacew.ork.net;35.186.238.101;;ns1.namefind.com;;United States
+tld-swap;lacework.app;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.biz;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.cf;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.cn;;;dns7.hichina.com;;
+tld-swap;lacework.co;!ServFail;!ServFail;!ServFail;;
+tld-swap;lacework.com;141.193.213.20;;ns-1297.awsdns-34.org;alt1.aspmx.l.google.com;United States
+tld-swap;lacework.de;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.eu;;;ns-1490.awsdns-58.org;;
+tld-swap;lacework.ga;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.gq;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.info;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.ml;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.online;64.190.62.111;;ns1.sedoparking.com;localhost;Germany
+tld-swap;lacework.org;3.64.163.50;!ServFail;ns1.dan.com;;Germany
+tld-swap;lacework.pw;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.site;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.tk;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.top;72.52.10.14;;ns1.markmonitor.com;;United States
+tld-swap;lacework.uk;192.64.147.172;;ns1.voodoo.com;;United States
+tld-swap;lacework.xyz;72.52.10.14;;ns1.markmonitor.com;;United States

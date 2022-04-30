@@ -1,0 +1,588 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+http://129.lacework.net \
+http://075.lacework.net \
+https://75-static.lacework.net\
+https://7atc.lacework.net\
+https://89-10-251.lacework.net \
+https://a2c-250-234.lacework.net \
+https://aep.lacework.net\
+https://afoam.lacework.net\
+https://a2c-net232.lacework.net\
+https://albny.lacework.net \
+http://89-11-116.lacework.net \
+https://ahtc.lacework.net\
+https://ajcc-erg.lacework.net \
+http://a2c-net234.lacework.net \
+https://africaonline.lacework.net \
+https://alhbca.lacework.net\
+https://amsaa.lacework.net\
+https://apgea.lacework.net\
+https://api.fra.lacework.net \
+http://79-static.lacework.net \
+http://ags.lacework.net \
+http://a2c-net249.lacework.net \
+https://amedd.lacework.net \
+http://96.lacework.net \
+https://arnet.lacework.net \
+https://as.lacework.net \
+https://asselvi.lacework.net\
+http://ang.lacework.net \
+https://bofh.lacework.net \
+http://api.lacework.net \
+http://arbinet.lacework.net\
+http://brinks.lacework.net \
+https://classe-217-150-210.lacework.net \
+https://c-255.lacework.net \
+https://cache.lacework.net \
+https://cable.lacework.net \
+https://crf2.lacework.net \
+https://civil.lacework.net \
+http://c-206.lacework.net\
+https://cuit.lacework.net\
+https://csassets.lacework.net\
+http://campbell.lacework.net\
+https://currentbun.lacework.net \
+http://ctn.lacework.net \
+http://cnet.lacework.net \
+http://cpe-statics.lacework.net \
+http://cc7221225.lacework.net \
+https://cust-rtr.lacework.net \
+https://customerdemo.lacework.net \
+http://cust-89.lacework.net \
+https://dallas-us1096.lacework.net \
+https://dbn.lacework.net \
+https://dh.lacework.net \
+https://de.lacework.com\
+http://cusd.lacework.net \
+https://dodo.lacework.net\
+http://ddm.lacework.net \
+http://decal.lacework.net\
+http://de.support.lacework.com \
+http://dn138.lacework.net \
+https://dslam.lacework.net \
+http://dcp.lacework.net\
+http://default-00011084.lacework.net \
+http://dehs.lacework.net \
+https://dwgvil.lacework.net \
+https://dragon.lacework.net \
+http://dr.lacework.net \
+https://ehost.lacework.net\
+http://dus2-x0.lacework.net \
+https://fcv.lacework.net \
+https://fios.lacework.net\
+https://fair.lacework.net \
+http://ekhl.lacework.net \
+https://forehall.lacework.net\
+http://eeel.lacework.net \
+http://email.lacework.net \
+https://forest.lacework.net\
+https://frcn.lacework.net\
+http://fl.lacework.net \
+http://ems.lacework.net \
+https://future.lacework.net\
+http://engr.lacework.net\
+http://fbx.lacework.net\
+https://gradapt1.lacework.net\
+https://hack3rs.corp.lacework.net \
+https://goldlnk.lacework.net\
+http://funescoop.lacework.net \
+https://host191.lacework.net \
+https://i03-12.lacework.net\
+https://host72.lacework.net \
+http://gw.lacework.net \
+https://hou2.lacework.net \
+http://host45.lacework.net \
+https://i05-20.lacework.net \
+http://fuzzy.lacework.net \
+http://gp01.lacework.net \
+http://glelil.lacework.net \
+https://in.lacework.net \
+http://hack3rs1.corp4.lacework.net \
+https://idle.lacework.net \
+https://ibys.lacework.net \
+https://info.lacework.com \
+https://idea.lacework.net \
+http://hemonc.lacework.net\
+http://i03-15.lacework.net \
+https://igb.lacework.net \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx4699\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 https://intergame.lacework.net \
+http://ife.lacework.net \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 https://ip148.lacework.net \
+https://is9.lacework.net\
+http://infocom.lacework.net \
+https://isv.lacework.net \
+http://inside-ip-115.lacework.net \
+https://itsstaff.lacework.net \
+http://ip-sin.lacework.net \
+http://info.lacework.net \
+https://ken-64-141-56.lacework.net \
+https://jp.lacework.net \
+http://ip20.lacework.net \
+https://kobercogan.lacework.net\
+https://ksb1.lacework.net \
+https://kw.lacework.net \
+http://itcep.lacework.net\
+https://layl001.lacework.net\
+https://le.lacework.net \
+http://kines.lacework.net\
+http://lab.lacework.net \
+https://mis.lacework.net \
+https://mx17.lacework.net \
+https://moulton.lacework.net \
+http://melbourne.lacework.net\
+https://mx52.lacework.net\
+http://miller.lacework.net \
+http://mx210.lacework.net \
+https://ont.lacework.net \
+https://onecard.lacework.net \
+http://nvsk.lacework.net\
+http://north.lacework.net \
+http://nti.lacework.net\
+https://patterson.lacework.net \
+http://os.lacework.net\
+https://prod.lacework.net \
+http://osuf.lacework.net \
+http://parrot.lacework.net \
+http://partners.lacework.com \
+http://pixe10.lacework.net \
+https://qa12.corp.lacework.net \
+https://qa11.corp.lacework.net\
+https://qa2.corp.lacework.net\
+http://pool.lacework.net \
+http://postoffice.lacework.net \
+http://preprod1.corp.lacework.net \
+https://qa4.corp.lacework.net \
+http://pc-86-114-0-112.lacework.net\
+https://public-safety.lacework.net\
+http://prodn2.corp1.lacework.net \
+http://pts.lacework.net\
+https://revmassy.lacework.net\
+https://rh2.lacework.net \
+http://qa7.corp.lacework.net \
+https://ra.lacework.net \
+https://reservedstatic-20.lacework.net\
+https://ric.lacework.net\
+http://qrvl.lacework.net\
+http://qa8.corp.lacework.net \
+https://rstr.lacework.net\
+https://sadv.lacework.net \
+http://qan3.corp.lacework.net \
+https://reversedns.lacework.net\
+http://range217-42.lacework.net \
+http://qwest.lacework.net \
+http://r194.lacework.net \
+https://schaub.lacework.net\
+http://raleinc.lacework.net \
+https://seg156.lacework.net \
+https://sbsl.lacework.net\
+https://s151.lacework.net \
+https://segment-124-7.lacework.net \
+https://seg158.lacework.net \
+https://scz.lacework.net \
+http://rit.lacework.net \
+http://radonc.lacework.net\
+http://rivo.lacework.net \
+https://shv.lacework.net\
+http://range86-129.lacework.net\
+https://seg224.lacework.net\
+https://snl.lacework.net \
+https://smtp6.lacework.net\
+http://rmu161.lacework.net \
+https://slivnica.lacework.net \
+https://spork2.corp5.lacework.ne\
+https://shidler.lacework.net \
+https://snmtca.lacework.net\
+http://seg186.lacework.net \
+http://sg-wireless.lacework.net \
+http://seg140.lacework.net\
+http://sanjoca.lacework.net\
+http://sergipenet.lacework.net\
+http://sdm3.lacework.net \
+http://server11.lacework.net \
+https://static-ds205-client.lacework.net\
+https://static90.lacework.net\
+http://snowflake.lacework.net\
+http://sh.lacework.net \
+http://snt.lacework.net \
+http://shr.lacework.net \
+http://static136.lacework.net\
+http://slice.lacework.net \
+http://soceco.lacework.net\
+https://sub-166-142-213.lacework.net\
+https://sub-166-143-115.lacework.net \
+https://sub-166-143-129.lacework.net \
+https://sub-166-144-173.lacework.net \
+http://students.lacework.net \
+https://sub-166-142-253.lacework.net\
+http://sub-166-139-226.lacework.net\
+https://sub-166-144-55.lacework.net \
+http://sub-166-140-150.lacework.net \
+http://status.lacework.net \
+http://sub-166-140-255.lacework.net \
+https://sub-166-144-58.lacework.net\
+http://sub-166-141-201.lacework.net\
+https://sub-166-148-88.lacework.net\
+https://sub-166-149-203.lacework.net \
+http://sub-166-141-185.lacework.net \
+https://sub-166-149-181.lacework.net \
+https://sub-166-152-184.lacework.net\
+http://sub-166-144-199.lacework.net \
+http://sub-166-144-131.lacework.net \
+https://sub-166-148-13.lacework.net\
+https://sub-166-154-223.lacework.net \
+https://sub-166-152-176.lacework.net \
+https://sub-166-154-50.lacework.net\
+http://sub-166-146-69.lacework.net \
+http://sub-166-147-141.lacework.net \
+http://sub-166-145-56.lacework.net \
+https://sub-166-155-125.lacework.net\
+https://sub-166-155-176.lacework.net\
+http://sub-166-152-90.lacework.net \
+https://sub-166-155-208.lacework.net\
+http://sub-166-153-224.lacework.net\
+http://sub-166-148-92.lacework.net\
+https://sub-166-155-146.lacework.net \
+http://sub-166-155-192.lacework.net \
+http://sub-166-155-170.lacework.net \
+http://sub-166-153-253.lacework.net\
+http://sub-166-154-76.lacework.net \
+https://sub-166-158-166.lacework.net \
+https://sub-166-159-224.lacework.net \
+http://sub-166-155-230.lacework.net \
+http://sub-166-155-157.lacework.net\
+http://sub-166-156-128.lacework.net \
+https://sub-166-158-241.lacework.net \
+http://sub-166-158-1.lacework.net \
+https://sub-166-159-207.lacework.net\
+http://sub-166-158-223.lacework.net \
+http://sub-166-158-210.lacework.net \
+https://sub-166-161-231.lacework.net \
+https://sub-166-161-89.lacework.net \
+https://sub-166-161-69.lacework.net \
+http://sub-166-160-252.lacework.net \
+http://sub-166-160-211.lacework.net \
+https://sub-166-161-90.lacework.net \
+https://sub-166-162-243.lacework.net \
+http://sub-166-161-208.lacework.net\
+https://sub-166-168-21.lacework.net \
+http://sub-166-160-248.lacework.net \
+http://sub-166-161-132.lacework.net \
+http://sub-166-162-218.lacework.net\
+http://sub-166-162-178.lacework.net\
+https://sub-166-240-40.lacework.net \
+https://sub-166-240-253.lacework.net\
+http://sub-166-180-197.lacework.net\
+https://sub-166-240-78.lacework.net \
+https://sub-166-241-170.lacework.net\
+https://sub-166-241-125.lacework.net\
+http://sub-166-162-253.lacework.net \
+http://sub-166-168-14.lacework.net \
+http://sub-166-180-81.lacework.net \
+https://sub-166-241-150.lacework.net \
+https://sub-166-242-53.lacework.net \
+https://sub-166-241-205.lacework.net \
+https://sub-166-242-222.lacework.net \
+https://sub-166-244-64.lacework.net \
+https://sub-166-245-248.lacework.net\
+http://sub-166-242-93.lacework.net\
+http://sub-166-242-82.lacework.net\
+http://sub-166-243-171.lacework.net \
+http://sub-166-243-195.lacework.net\
+http://sub-166-245-14.lacework.net \
+http://sub-166-242-97.lacework.net \
+https://sub-166-252-218.lacework.net \
+https://sub-166-252-229.lacework.net \
+https://sub-166-254-66.lacework.net \
+http://sub-166-244-52.lacework.net \
+http://sub-166-245-43.lacework.net \
+https://sub-166-254-238.lacework.net \
+https://sub-166-254-205.lacework.net\
+https://sub-174-194-213.lacework.net\
+http://sub-166-254-56.lacework.net \
+http://sub-166-254-34.lacework.net \
+http://sub-166-254-79.lacework.net\
+https://sub-174-203-124.lacework.net\
+https://sub-174-202-148.lacework.net \
+https://sub-174-202-147.lacework.net \
+https://sub-174-203-58.lacework.net \
+http://sub-174-194-179.lacework.net \
+https://sub-174-205-199.lacework.net\
+http://sub-174-201-211.lacework.net\
+http://sub-174-201-243.lacework.net \
+http://sub-174-192-193.lacework.net \
+https://sub-174-212-53.lacework.net \
+http://sub-174-217-113.lacework.net\
+https://sub-174-242-116.lacework.net\
+http://sub-174-228-175.lacework.net \
+http://sub-174-228-198.lacework.net \
+http://sub-174-238-249.lacework.net \
+http://sub-174-239-81.lacework.net\
+https://sub-174-255-226.lacework.net \
+https://sub-97-0-146.lacework.net \
+http://sub-174-251-112.lacework.net \
+https://sub-97-1-92.lacework.net \
+https://sub-198-224-202.lacework.net \
+http://sub-198-223-113.lacework.net \
+https://sub-97-0-215.lacework.net \
+http://sub-199-223-87.lacework.net\
+https://sub-97-12-128.lacework.net \
+http://sub-97-0-95.lacework.net\
+http://sub-97-10-220.lacework.net \
+http://sub-97-11-28.lacework.net \
+http://sub-97-12-145.lacework.net\
+http://sub-97-130-146.lacework.net \
+https://sub-97-136-57.lacework.net \
+http://sub-97-11-152.lacework.net \
+http://sub-97-11-138.lacework.net \
+https://sub-97-137-115.lacework.net \
+https://sub-97-138-114.lacework.ne\
+https://sub-97-140-188.lacework.net \
+https://sub-97-146-117.lacework.net \
+https://sub-97-141-158.lacework.net \
+http://sub-97-138-160.lacework.net \
+https://sub-97-147-252.lacework.net \
+https://sub-97-15-26.lacework.net \
+https://sub-97-15-131.lacework.net \
+https://sub-97-152-100.lacework.net \
+https://sub-97-150-46.lacework.net \
+https://sub-97-152-172.lacework.net \
+https://sub-97-154-190.lacework.net\
+https://sub-97-155-179.lacework.net \
+https://sub-97-155-139.lacework.net \
+https://sub-97-155-66.lacework.net \
+http://sub-97-150-77.lacework.net \
+http://sub-97-152-42.lacework.net \
+https://sub-97-157-213.lacework.net \
+https://sub-97-158-132.lacework.net \
+https://sub-97-155-149.lacework.net \
+https://sub-97-160-189.lacework.net\
+https://sub-97-161-136.lacework.net \
+https://sub-97-161-205.lacework.net \
+https://sub-97-164-60.lacework.net \
+https://sub-97-164-63.lacework.net \
+https://sub-97-165-118.lacework.net \
+https://sub-97-161-70.lacework.net \
+http://sub-97-161-106.lacework.net\
+https://sub-97-164-47.lacework.net \
+http://sub-97-161-141.lacework.net \
+http://sub-97-160-204.lacework.net \
+http://sub-97-161-107.lacework.net \
+http://sub-97-16-132.lacework.net \
+http://sub-97-164-226.lacework.net\
+http://sub-97-160-197.lacework.net \
+http://sub-97-165-199.lacework.net\
+http://sub-97-166-119.lacework.net \
+https://sub-97-177-148.lacework.net \
+http://sub-97-174-63.lacework.net \
+http://sub-97-170-247.lacework.net \
+http://sub-97-169-234.lacework.net \
+http://sub-97-169-202.lacework.net \
+https://sub-97-181-133.lacework.net\
+http://sub-97-177-41.lacework.net \
+http://sub-97-170-6.lacework.net\
+https://sub-97-181-135.lacework.net \
+https://sub-97-185-12.lacework.net \
+https://sub-97-181-238.lacework.net\
+https://sub-97-184-40.lacework.net \
+https://sub-97-186-121.lacework.net\
+http://sub-97-180-125.lacework.net \
+https://sub-97-190-111.lacework.net\
+http://sub-97-181-60.lacework.net\
+http://sub-97-184-253.lacework.net \
+https://sub-97-190-130.lacework.net \
+http://sub-97-186-40.lacework.net \
+http://sub-97-190-147.lacework.net \
+http://sub-97-193-131.lacework.net\
+http://sub-97-189-252.lacework.net \
+https://sub-97-194-46.lacework.net \
+http://sub-97-193-102.lacework.net \
+http://sub-97-193-249.lacework.net \
+http://sub-97-199-16.lacework.net\
+https://sub-97-202-184.lacework.net\
+https://sub-97-204-109.lacework.net \
+https://sub-97-213-249.lacework.net \
+http://sub-97-207-37.lacework.net \
+http://sub-97-208-66.lacework.net \
+http://sub-97-204-245.lacework.net\
+http://sub-97-202-243.lacework.net \
+http://sub-97-208-134.lacework.net \
+http://sub-97-209-32.lacework.net \
+http://sub-97-21-120.lacework.net \
+https://sub-97-22-242.lacework.net\
+http://sub-97-217-126.lacework.net \
+https://sub-97-221-115.lacework.net\
+http://sub-97-213-57.lacework.net\
+http://sub-97-218-161.lacework.net \
+https://sub-97-225-63.lacework.net\
+https://sub-97-220-112.lacework.net \
+http://sub-97-22-240.lacework.net \
+http://sub-97-221-120.lacework.net\
+https://sub-97-228-166.lacework.net\
+http://sub-97-226-198.lacework.net\
+https://sub-97-232-148.lacework.net\
+http://sub-97-228-172.lacework.net\
+http://sub-97-230-124.lacework.net \
+http://sub-97-23-65.lacework.net \
+https://sub-97-239-155.lacework.net\
+https://sub-97-234-216.lacework.net \
+https://sub-97-238-89.lacework.net \
+http://sub-97-230-69.lacework.net \
+http://sub-97-231-108.lacework.net \
+https://sub-97-241-104.lacework.net \
+http://sub-97-239-185.lacework.net \
+http://sub-97-239-249.lacework.net \
+http://sub-97-236-41.lacework.net \
+http://sub-97-24-201.lacework.net\
+https://sub-97-241-121.lacework.net \
+https://sub-97-247-106.lacework.net\
+http://sub-97-244-120.lacework.net\
+https://sub-97-247-237.lacework.net\
+http://sub-97-244-234.lacework.net\
+https://sub-97-249-44.lacework.net \
+http://sub-97-244-77.lacework.net \
+http://sub-97-242-51.lacework.net \
+http://sub-97-247-150.lacework.net \
+https://sub-97-247-74.lacework.net \
+http://sub-97-246-141.lacework.net\
+http://sub-97-245-96.lacework.net \
+http://sub-97-247-206.lacework.net \
+https://sub-97-25-200.lacework.net \
+http://sub-97-248-48.lacework.net \
+https://sub-97-251-20.lacework.net\
+https://sub-97-251-47.lacework.net\
+http://sub-97-248-212.lacework.net\
+http://sub-97-249-32.lacework.net\
+http://sub-97-249-119.lacework.net \
+https://sub-97-254-93.lacework.net\
+https://sub-97-255-60.lacework.net\
+http://sub-97-25-215.lacework.net \
+http://sub-97-251-137.lacework.net \
+http://sub-97-250-31.lacework.net \
+https://sub-97-251-76.lacework.net \
+http://sub-97-251-11.lacework.net \
+https://sub-97-26-156.lacework.net\
+http://sub-97-251-10.lacework.net \
+https://sub-97-26-216.lacework.net \
+http://sub-97-25-47.lacework.net \
+http://sub-97-251-179.lacework.net \
+http://sub-97-255-91.lacework.net \
+https://sub-97-28-104.lacework.net \
+http://sub-97-26-144.lacework.net\
+http://sub-97-26-59.lacework.net \
+http://sub-97-27-132.lacework.net\
+http://sub-97-26-109.lacework.net\
+http://sub-97-28-125.lacework.net \
+http://sub-97-29-139.lacework.net\
+https://sub-97-31-149.lacework.net \
+http://sub-97-3-145.lacework.net\
+http://sub-97-29-141.lacework.net \
+https://sub-97-32-241.lacework.net \
+https://sub-97-32-60.lacework.net \
+https://sub-97-32-68.lacework.net \
+https://sub-97-31-184.lacework.net \
+https://sub-97-32-240.lacework.net \
+https://sub-97-33-137.lacework.net \
+https://sub-97-33-207.lacework.net\
+https://sub-97-33-152.lacework.net\
+http://sub-97-30-205.lacework.nett\
+http://sub-97-32-148.lacework.net \
+https://sub-97-33-166.lacework.net\
+https://sub-97-34-127.lacework.net \
+https://sub-97-35-118.lacework.net\
+http://sub-97-33-180.lacework.net \
+http://sub-97-32-28.lacework.net \
+https://sub-97-36-177.lacework.net \
+https://sub-97-35-94.lacework.net \
+https://sub-97-37-193.lacework.net\
+https://sub-97-36-131.lacework.net \
+https://sub-97-37-242.lacework.net \
+https://sub-97-38-213.lacework.net \
+https://sub-97-37-122.lacework.net \
+http://sub-97-36-219.lacework.net \
+https://sub-97-39-64.lacework.net \
+https://sub-97-38-50.lacework.net\
+http://sub-97-36-117.lacework.net\
+https://sub-97-4-247.lacework.net\
+http://sub-97-37-254.lacework.net \
+https://sub-97-39-41.lacework.net\
+https://sub-97-40-69.lacework.net\
+http://sub-97-38-40.lacework.net \
+https://sub-97-41-215.lacework.net \
+http://sub-97-38-8.lacework.net \
+http://sub-97-39-66.lacework.net \
+https://sub-97-42-68.lacework.net \
+http://sub-97-4-9.lacework.net\
+https://sub-97-43-9.lacework.net\
+https://sub-97-41-203.lacework.net \
+https://sub-97-41-82.lacework.net\
+https://sub-97-41-87.lacework.net\
+https://sub-97-44-11.lacework.net \
+https://sub-97-46-136.lacework.net \
+https://sub-97-45-233.lacework.net \
+https://sub-97-46-142.lacework.net \
+https://sub-97-47-186.lacework.net \
+https://sub-97-46-68.lacework.net\
+https://sub-97-47-24.lacework.net \
+https://sub-97-46-73.lacework.net \
+http://sub-97-45-38.lacework.net \
+http://sub-97-45-140.lacework.net \
+http://sub-97-47-101.lacework.net\
+https://sub-97-50-132.lacework.net\
+https://sub-97-50-65.lacework.net \
+https://sub-97-50-12.lacework.net \
+http://sub-97-48-11.lacework.net \
+http://sub-97-49-14.lacework.net \
+http://sub-97-48-123.lacework.net\
+http://sub-97-49-107.lacework.net\
+http://sub-97-50-213.lacework.net \
+http://sub-97-53-179.lacework.net \
+http://sub-97-53-108.lacework.net \
+https://sub-97-56-241.lacework.net \
+https://sub-97-56-237.lacework.net \
+http://sub-97-55-20.lacework.net \
+https://sub-97-57-49.lacework.net\
+https://sub-97-56-63.lacework.net \
+http://sub-97-56-137.lacework.net \
+http://sub-97-56-246.lacework.net \
+http://sub-97-56-242.lacework.net \
+https://sub-97-60-194.lacework.net\
+http://sub-97-58-164.lacework.net \
+http://sub-97-59-57.lacework.net \
+https://sub-97-61-32.lacework.net \
+http://sub-97-62-121.lacework.net \
+https://sub-97-63-244.lacework.net\
+http://sub-97-62-251.lacework.net \
+http://sub-97-61-232.lacework.net\
+https://th2.lacework.net\
+http://sub-97-63-72.lacework.net\
+http://sub-97-7-231.lacework.net\
+http://sub-97-62-187.lacework.net \
+http://sub-97-9-241.lacework.net\
+https://tobaccorow.lacework.net \
+/sub-97-8-242.lacework.net \
+ua-camp-farms.lacework.net \
+support.lacework.net\
+toron17.lacework.net \
+usnycm2-bsn.lacework.net\
+user112.lacework.net\
+user105.lacework.net\
+unk-185.lacework.net \
+usr2.lacework.net \
+vodacom.lacework.net\
+wpa1.lacework.net \
+wdc1.lacework.net\
+wca.lacework.net\
+wpa2.lacework.net\
+wpa170.lacework.net \
+ztay.lacework.net \
+\
+}

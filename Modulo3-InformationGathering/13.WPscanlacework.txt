@@ -1,0 +1,541 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 _______________________________________________________________\
+         __          _______   _____\
+         \\ \\        / /  __ \\ / ____|\
+          \\ \\  /\\  / /| |__) | (___   ___  __ _ _ __ \'ae\
+           \\ \\/  \\/ / |  ___/ \\___ \\ / __|/ _` | '_ \\\
+            \\  /\\  /  | |     ____) | (__| (_| | | | |\
+             \\/  \\/   |_|    |_____/ \\___|\\__,_|_| |_|\
+\
+         WordPress Security Scanner by the WPScan Team\
+                         Version 3.8.20\
+       Sponsored by Automattic - https://automattic.com/\
+       @_WPScan_, @ethicalhack3r, @erwan_lr, @firefart\
+_______________________________________________________________\
+\
+[+] URL: https://nl.lacework.com/ [54.205.199.210]\
+[+] Started: Thu Jan 27 17:26:32 2022\
+\
+Interesting Finding(s):\
+\
+[+] Headers\
+ | Interesting Entries:\
+ |  - referrer-policy: no-referrer-when-downgrade\
+ |  - permissions-policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)\
+ |  - content-security-policy-report-only: frame-src 'self' https://js.driftt.com; https://www.lacework.com; child-src 'self' https://js.driftt.com; https://www.lacework.com; script-src 'self' https://js.driftt.com; https://www.lacework.com; upgrade-insecure-requests\
+ |  - x-powered-by: WP Engine\
+ |  - x-cacheable: bot\
+ |  - x-cache-group: bot\
+ |  - cf-cache-status: DYNAMIC\
+ |  - expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"\
+ |  - server: cloudflare\
+ |  - cf-ray: 6d456713be465b95-IAD\
+ |  - alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400\
+ |  - content-language: nl-NL\
+ |  - x-server: Smartling\
+ |  - x-sl-notranslate: 1\
+ |  - x-sl-norewrite: 1\
+ | Found By: Headers (Passive Detection)\
+ | Confidence: 100%\
+\
+[+] robots.txt found: https://nl.lacework.com/robots.txt\
+ | Found By: Robots Txt (Aggressive Detection)\
+ | Confidence: 100%\
+\
+[+] XML-RPC seems to be enabled: https://nl.lacework.com/xmlrpc.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 100%\
+ | References:\
+ |  - http://codex.wordpress.org/XML-RPC_Pingback_API\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_ghost_scanner/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/dos/http/wordpress_xmlrpc_dos/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_xmlrpc_login/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_pingback_access/\
+\
+[+] This site has 'Must Use Plugins': https://nl.lacework.com/wp-content/mu-plugins/\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 80%\
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins\
+\
+[+] The external WP-Cron seems to be enabled: https://nl.lacework.com/wp-cron.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 60%\
+ | References:\
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos\
+ |  - https://github.com/wpscanteam/wpscan/issues/1299\
+\
+[+] WordPress version 5.8.3 identified (Latest, released on 2022-01-06).\
+ | Found By: Emoji Settings (Passive Detection)\
+ |  - https://nl.lacework.com/, Match: 'wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.8.3'\
+ | Confirmed By: Most Common Wp Includes Query Parameter In Homepage (Passive Detection)\
+ |  - https://nl.lacework.com/wp-includes/js/wp-embed.min.js?ver=5.8.3\
+\
+[+] WordPress theme in use: understrap-child\
+ | Location: https://nl.lacework.com/wp-content/themes/understrap-child/\
+ | Readme: https://nl.lacework.com/wp-content/themes/understrap-child/README.md\
+ | Style URL: https://nl.lacework.com/wp-content/themes/understrap-child/style.css\
+ | Style Name: UnderStrap Child\
+ | Style URI: https://www.understrap.com\
+ | Description: UnderStrap Child Theme...\
+ | Author: Holger Koenemann\
+ | Author URI: http://www.holgerkoenemann.de\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 0.641 (80% confidence)\
+ | Found By: Style (Passive Detection)\
+ |  - https://nl.lacework.com/wp-content/themes/understrap-child/style.css, Match: 'Version:      0.641'\
+\
+[+] Enumerating All Plugins (via Passive Methods)\
+[+] Checking Plugin Versions (via Passive and Aggressive Methods)\
+\
+[i] Plugin(s) Identified:\
+\
+[+] syntaxhighlighter\
+ | Location: https://nl.lacework.com/wp-content/plugins/syntaxhighlighter/\
+ | Latest Version: 3.6.1 (up to date)\
+ | Last Updated: 2021-11-29T14:56:00.000Z\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 3.6.1 (100% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://nl.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+ | Confirmed By: Readme - ChangeLog Section (Aggressive Detection)\
+ |  - https://nl.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+\
+[+] wordpress-seo-premium\
+ | Location: https://nl.lacework.com/wp-content/plugins/wordpress-seo-premium/\
+ | Latest Version: 17.9 (up to date)\
+ | Last Updated: 2022-01-11T09:43:22.000Z\
+ |\
+ | Found By: Comment (Passive Detection)\
+ |\
+ | Version: 17.9 (80% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://nl.lacework.com/wp-content/plugins/wordpress-seo-premium/readme.txt\
+\
+[+] Enumerating Config Backups (via Passive and Aggressive Methods)\
+ Checking Config Backups - Time: 00:00:09 <====================================================> (137 / 137) 100.00% Time: 00:00:09\
+\
+[i] No Config Backups Found.\
+\
+[!] No WPScan API Token given, as a result vulnerability data has not been output.\
+[!] You can get a free API token with 25 daily requests by registering at https://wpscan.com/register\
+\
+[+] Finished: Thu Jan 27 17:27:02 2022\
+[+] Requests Done: 175\
+[+] Cached Requests: 6\
+[+] Data Sent: 39.937 KB\
+[+] Data Received: 325.856 KB\
+[+] Memory used: 233.977 MB\
+[+] Elapsed time: 00:00:30\
+\
+\
+\
+_______________________________________________________________\
+         __          _______   _____\
+         \\ \\        / /  __ \\ / ____|\
+          \\ \\  /\\  / /| |__) | (___   ___  __ _ _ __ \'ae\
+           \\ \\/  \\/ / |  ___/ \\___ \\ / __|/ _` | '_ \\\
+            \\  /\\  /  | |     ____) | (__| (_| | | | |\
+             \\/  \\/   |_|    |_____/ \\___|\\__,_|_| |_|\
+\
+         WordPress Security Scanner by the WPScan Team\
+                         Version 3.8.20\
+       Sponsored by Automattic - https://automattic.com/\
+       @_WPScan_, @ethicalhack3r, @erwan_lr, @firefart\
+_______________________________________________________________\
+\
+[+] URL: https://jp.lacework.com/ [54.156.233.42]\
+[+] Started: Thu Jan 27 17:36:39 2022\
+\
+Interesting Finding(s):\
+\
+[+] Headers\
+ | Interesting Entries:\
+ |  - referrer-policy: no-referrer-when-downgrade\
+ |  - permissions-policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)\
+ |  - content-security-policy-report-only: frame-src 'self' https://js.driftt.com; https://www.lacework.com; child-src 'self' https://js.driftt.com; https://www.lacework.com; script-src 'self' https://js.driftt.com; https://www.lacework.com; upgrade-insecure-requests\
+ |  - x-powered-by: WP Engine\
+ |  - x-cacheable: bot\
+ |  - x-cache-group: bot\
+ |  - cf-cache-status: DYNAMIC\
+ |  - expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"\
+ |  - server: cloudflare\
+ |  - cf-ray: 6d4575f8dcff5dbb-IAD\
+ |  - alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400\
+ |  - content-language: ja-JP\
+ |  - x-server: Smartling\
+ |  - x-sl-notranslate: 1\
+ |  - x-sl-norewrite: 1\
+ | Found By: Headers (Passive Detection)\
+ | Confidence: 100%\
+\
+[+] robots.txt found: https://jp.lacework.com/robots.txt\
+ | Found By: Robots Txt (Aggressive Detection)\
+ | Confidence: 100%\
+\
+[+] XML-RPC seems to be enabled: https://jp.lacework.com/xmlrpc.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 100%\
+ | References:\
+ |  - http://codex.wordpress.org/XML-RPC_Pingback_API\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_ghost_scanner/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/dos/http/wordpress_xmlrpc_dos/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_xmlrpc_login/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_pingback_access/\
+\
+[+] This site has 'Must Use Plugins': https://jp.lacework.com/wp-content/mu-plugins/\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 80%\
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins\
+\
+[+] The external WP-Cron seems to be enabled: https://jp.lacework.com/wp-cron.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 60%\
+ | References:\
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos\
+ |  - https://github.com/wpscanteam/wpscan/issues/1299\
+\
+[+] WordPress version 5.8.3 identified (Latest, released on 2022-01-06).\
+ | Found By: Emoji Settings (Passive Detection)\
+ |  - https://jp.lacework.com/, Match: 'wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.8.3'\
+ | Confirmed By: Most Common Wp Includes Query Parameter In Homepage (Passive Detection)\
+ |  - https://jp.lacework.com/wp-includes/js/wp-embed.min.js?ver=5.8.3\
+\
+[+] WordPress theme in use: understrap-child\
+ | Location: https://jp.lacework.com/wp-content/themes/understrap-child/\
+ | Readme: https://jp.lacework.com/wp-content/themes/understrap-child/README.md\
+ | Style URL: https://jp.lacework.com/wp-content/themes/understrap-child/style.css\
+ | Style Name: UnderStrap Child\
+ | Style URI: https://www.understrap.com\
+ | Description: UnderStrap Child Theme...\
+ | Author: Holger Koenemann\
+ | Author URI: http://www.holgerkoenemann.de\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 0.641 (80% confidence)\
+ | Found By: Style (Passive Detection)\
+ |  - https://jp.lacework.com/wp-content/themes/understrap-child/style.css, Match: 'Version:      0.641'\
+\
+[+] Enumerating All Plugins (via Passive Methods)\
+[+] Checking Plugin Versions (via Passive and Aggressive Methods)\
+\
+[i] Plugin(s) Identified:\
+\
+[+] syntaxhighlighter\
+ | Location: https://jp.lacework.com/wp-content/plugins/syntaxhighlighter/\
+ | Latest Version: 3.6.1 (up to date)\
+ | Last Updated: 2021-11-29T14:56:00.000Z\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 3.6.1 (100% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://jp.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+ | Confirmed By: Readme - ChangeLog Section (Aggressive Detection)\
+ |  - https://jp.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+\
+[+] wordpress-seo-premium\
+ | Location: https://jp.lacework.com/wp-content/plugins/wordpress-seo-premium/\
+ | Latest Version: 17.9 (up to date)\
+ | Last Updated: 2022-01-11T09:43:22.000Z\
+ |\
+ | Found By: Comment (Passive Detection)\
+ |\
+ | Version: 17.9 (80% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://jp.lacework.com/wp-content/plugins/wordpress-seo-premium/readme.txt\
+\
+[+] Enumerating Config Backups (via Passive and Aggressive Methods)\
+ Checking Config Backups - Time: 00:00:08 <==========================> (137 / 137) 100.00% Time: 00:00:08\
+\
+[i] No Config Backups Found.\
+\
+[!] No WPScan API Token given, as a result vulnerability data has not been output.\
+[!] You can get a free API token with 25 daily requests by registering at https://wpscan.com/register\
+\
+[+] Finished: Thu Jan 27 17:37:07 2022\
+[+] Requests Done: 175\
+[+] Cached Requests: 6\
+[+] Data Sent: 39.937 KB\
+[+] Data Received: 325.885 KB\
+[+] Memory used: 232.75 MB\
+[+] Elapsed time: 00:00:28\
+\
+\
+\
+_______________________________________________________________\
+         __          _______   _____\
+         \\ \\        / /  __ \\ / ____|\
+          \\ \\  /\\  / /| |__) | (___   ___  __ _ _ __ \'ae\
+           \\ \\/  \\/ / |  ___/ \\___ \\ / __|/ _` | '_ \\\
+            \\  /\\  /  | |     ____) | (__| (_| | | | |\
+             \\/  \\/   |_|    |_____/ \\___|\\__,_|_| |_|\
+\
+         WordPress Security Scanner by the WPScan Team\
+                         Version 3.8.20\
+       Sponsored by Automattic - https://automattic.com/\
+       @_WPScan_, @ethicalhack3r, @erwan_lr, @firefart\
+_______________________________________________________________\
+\
+[+] URL: https://it.lacework.com/ [54.205.199.210]\
+[+] Started: Thu Jan 27 17:39:43 2022\
+\
+Interesting Finding(s):\
+\
+[+] Headers\
+ | Interesting Entries:\
+ |  - referrer-policy: no-referrer-when-downgrade\
+ |  - permissions-policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)\
+ |  - content-security-policy-report-only: frame-src 'self' https://js.driftt.com; https://www.lacework.com; child-src 'self' https://js.driftt.com; https://www.lacework.com; script-src 'self' https://js.driftt.com; https://www.lacework.com; upgrade-insecure-requests\
+ |  - x-powered-by: WP Engine\
+ |  - x-cacheable: bot\
+ |  - x-cache-group: bot\
+ |  - cf-cache-status: DYNAMIC\
+ |  - expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"\
+ |  - server: cloudflare\
+ |  - cf-ray: 6d457a69efd47fca-IAD\
+ |  - alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400\
+ |  - content-language: it-IT\
+ |  - x-server: Smartling\
+ |  - x-sl-notranslate: 1\
+ |  - x-sl-norewrite: 1\
+ | Found By: Headers (Passive Detection)\
+ | Confidence: 100%\
+\
+[+] robots.txt found: https://it.lacework.com/robots.txt\
+ | Found By: Robots Txt (Aggressive Detection)\
+ | Confidence: 100%\
+\
+[+] XML-RPC seems to be enabled: https://it.lacework.com/xmlrpc.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 100%\
+ | References:\
+ |  - http://codex.wordpress.org/XML-RPC_Pingback_API\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_ghost_scanner/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/dos/http/wordpress_xmlrpc_dos/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_xmlrpc_login/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_pingback_access/\
+\
+[+] This site has 'Must Use Plugins': https://it.lacework.com/wp-content/mu-plugins/\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 80%\
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins\
+\
+[+] The external WP-Cron seems to be enabled: https://it.lacework.com/wp-cron.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 60%\
+ | References:\
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos\
+ |  - https://github.com/wpscanteam/wpscan/issues/1299\
+\
+[+] WordPress version 5.8.3 identified (Latest, released on 2022-01-06).\
+ | Found By: Emoji Settings (Passive Detection)\
+ |  - https://it.lacework.com/, Match: 'wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.8.3'\
+ | Confirmed By: Most Common Wp Includes Query Parameter In Homepage (Passive Detection)\
+ |  - https://it.lacework.com/wp-includes/js/wp-embed.min.js?ver=5.8.3\
+\
+[+] WordPress theme in use: understrap-child\
+ | Location: https://it.lacework.com/wp-content/themes/understrap-child/\
+ | Readme: https://it.lacework.com/wp-content/themes/understrap-child/README.md\
+ | Style URL: https://it.lacework.com/wp-content/themes/understrap-child/style.css\
+ | Style Name: UnderStrap Child\
+ | Style URI: https://www.understrap.com\
+ | Description: UnderStrap Child Theme...\
+ | Author: Holger Koenemann\
+ | Author URI: http://www.holgerkoenemann.de\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 0.641 (80% confidence)\
+ | Found By: Style (Passive Detection)\
+ |  - https://it.lacework.com/wp-content/themes/understrap-child/style.css, Match: 'Version:      0.641'\
+\
+[+] Enumerating All Plugins (via Passive Methods)\
+[+] Checking Plugin Versions (via Passive and Aggressive Methods)\
+\
+[i] Plugin(s) Identified:\
+\
+[+] syntaxhighlighter\
+ | Location: https://it.lacework.com/wp-content/plugins/syntaxhighlighter/\
+ | Latest Version: 3.6.1 (up to date)\
+ | Last Updated: 2021-11-29T14:56:00.000Z\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 3.6.1 (100% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://it.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+ | Confirmed By: Readme - ChangeLog Section (Aggressive Detection)\
+ |  - https://it.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+\
+[+] wordpress-seo-premium\
+ | Location: https://it.lacework.com/wp-content/plugins/wordpress-seo-premium/\
+ | Latest Version: 17.9 (up to date)\
+ | Last Updated: 2022-01-11T09:43:22.000Z\
+ |\
+ | Found By: Comment (Passive Detection)\
+ |\
+ | Version: 17.9 (80% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://it.lacework.com/wp-content/plugins/wordpress-seo-premium/readme.txt\
+\
+[+] Enumerating Config Backups (via Passive and Aggressive Methods)\
+ Checking Config Backups - Time: 00:00:14 <==========================> (137 / 137) 100.00% Time: 00:00:14\
+\
+[i] No Config Backups Found.\
+\
+[!] No WPScan API Token given, as a result vulnerability data has not been output.\
+[!] You can get a free API token with 25 daily requests by registering at https://wpscan.com/register\
+\
+[+] Finished: Thu Jan 27 17:40:30 2022\
+[+] Requests Done: 175\
+[+] Cached Requests: 6\
+[+] Data Sent: 37.291 KB\
+[+] Data Received: 325.913 KB\
+[+] Memory used: 242.438 MB\
+[+] Elapsed time: 00:00:46\
+\
+\
+\
+______________________________________________________________\
+         __          _______   _____\
+         \\ \\        / /  __ \\ / ____|\
+          \\ \\  /\\  / /| |__) | (___   ___  __ _ _ __ \'ae\
+           \\ \\/  \\/ / |  ___/ \\___ \\ / __|/ _` | '_ \\\
+            \\  /\\  /  | |     ____) | (__| (_| | | | |\
+             \\/  \\/   |_|    |_____/ \\___|\\__,_|_| |_|\
+\
+         WordPress Security Scanner by the WPScan Team\
+                         Version 3.8.20\
+       Sponsored by Automattic - https://automattic.com/\
+       @_WPScan_, @ethicalhack3r, @erwan_lr, @firefart\
+_______________________________________________________________\
+\
+[+] URL: https://fr.lacework.com/ [54.156.233.42]\
+[+] Started: Thu Jan 27 17:40:53 2022\
+\
+Interesting Finding(s):\
+\
+[+] Headers\
+ | Interesting Entries:\
+ |  - referrer-policy: no-referrer-when-downgrade\
+ |  - permissions-policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)\
+ |  - content-security-policy-report-only: frame-src 'self' https://js.driftt.com; https://www.lacework.com; child-src 'self' https://js.driftt.com; https://www.lacework.com; script-src 'self' https://js.driftt.com; https://www.lacework.com; upgrade-insecure-requests\
+ |  - x-powered-by: WP Engine\
+ |  - x-cacheable: bot\
+ |  - x-cache-group: bot\
+ |  - cf-cache-status: DYNAMIC\
+ |  - expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"\
+ |  - server: cloudflare\
+ |  - cf-ray: 6d457c299df05842-IAD\
+ |  - alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400\
+ |  - content-language: fr-FR\
+ |  - x-server: Smartling\
+ |  - x-sl-notranslate: 1\
+ |  - x-sl-norewrite: 1\
+ | Found By: Headers (Passive Detection)\
+ | Confidence: 100%\
+\
+[+] robots.txt found: https://fr.lacework.com/robots.txt\
+ | Found By: Robots Txt (Aggressive Detection)\
+ | Confidence: 100%\
+\
+[+] XML-RPC seems to be enabled: https://fr.lacework.com/xmlrpc.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 100%\
+ | References:\
+ |  - http://codex.wordpress.org/XML-RPC_Pingback_API\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_ghost_scanner/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/dos/http/wordpress_xmlrpc_dos/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_xmlrpc_login/\
+ |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_pingback_access/\
+\
+[+] This site has 'Must Use Plugins': https://fr.lacework.com/wp-content/mu-plugins/\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 80%\
+ | Reference: http://codex.wordpress.org/Must_Use_Plugins\
+\
+[+] The external WP-Cron seems to be enabled: https://fr.lacework.com/wp-cron.php\
+ | Found By: Direct Access (Aggressive Detection)\
+ | Confidence: 60%\
+ | References:\
+ |  - https://www.iplocation.net/defend-wordpress-from-ddos\
+ |  - https://github.com/wpscanteam/wpscan/issues/1299\
+\
+[+] WordPress version 5.8.3 identified (Latest, released on 2022-01-06).\
+ | Found By: Emoji Settings (Passive Detection)\
+ |  - https://fr.lacework.com/, Match: 'wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.8.3'\
+ | Confirmed By: Most Common Wp Includes Query Parameter In Homepage (Passive Detection)\
+ |  - https://fr.lacework.com/wp-includes/js/wp-embed.min.js?ver=5.8.3\
+\
+[+] WordPress theme in use: understrap-child\
+ | Location: https://fr.lacework.com/wp-content/themes/understrap-child/\
+ | Readme: https://fr.lacework.com/wp-content/themes/understrap-child/README.md\
+ | Style URL: https://fr.lacework.com/wp-content/themes/understrap-child/style.css\
+ | Style Name: UnderStrap Child\
+ | Style URI: https://www.understrap.com\
+ | Description: UnderStrap Child Theme...\
+ | Author: Holger Koenemann\
+ | Author URI: http://www.holgerkoenemann.de\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 0.641 (80% confidence)\
+ | Found By: Style (Passive Detection)\
+ |  - https://fr.lacework.com/wp-content/themes/understrap-child/style.css, Match: 'Version:      0.641'\
+\
+[+] Enumerating All Plugins (via Passive Methods)\
+[+] Checking Plugin Versions (via Passive and Aggressive Methods)\
+\
+[i] Plugin(s) Identified:\
+\
+[+] syntaxhighlighter\
+ | Location: https://fr.lacework.com/wp-content/plugins/syntaxhighlighter/\
+ | Latest Version: 3.6.1 (up to date)\
+ | Last Updated: 2021-11-29T14:56:00.000Z\
+ |\
+ | Found By: Urls In Homepage (Passive Detection)\
+ |\
+ | Version: 3.6.1 (100% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://fr.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+ | Confirmed By: Readme - ChangeLog Section (Aggressive Detection)\
+ |  - https://fr.lacework.com/wp-content/plugins/syntaxhighlighter/readme.txt\
+\
+[+] wordpress-seo-premium\
+ | Location: https://fr.lacework.com/wp-content/plugins/wordpress-seo-premium/\
+ | Latest Version: 17.9 (up to date)\
+ | Last Updated: 2022-01-11T09:43:22.000Z\
+ |\
+ | Found By: Comment (Passive Detection)\
+ |\
+ | Version: 17.9 (80% confidence)\
+ | Found By: Readme - Stable Tag (Aggressive Detection)\
+ |  - https://fr.lacework.com/wp-content/plugins/wordpress-seo-premium/readme.txt\
+\
+[+] Enumerating Config Backups (via Passive and Aggressive Methods)\
+ Checking Config Backups - Time: 00:00:09 <==========================> (137 / 137) 100.00% Time: 00:00:09\
+\
+[i] No Config Backups Found.\
+\
+[!] No WPScan API Token given, as a result vulnerability data has not been output.\
+[!] You can get a free API token with 25 daily requests by registering at https://wpscan.com/register\
+\
+[+] Finished: Thu Jan 27 17:41:29 2022\
+[+] Requests Done: 175\
+[+] Cached Requests: 6\
+[+] Data Sent: 39.875 KB\
+[+] Data Received: 327.947 KB\
+[+] Memory used: 235.32 MB\
+[+] Elapsed time: 00:00:36\
+}
