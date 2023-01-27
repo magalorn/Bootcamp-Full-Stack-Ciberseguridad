@@ -1,0 +1,335 @@
+_______________________________________________________________
+         __          _______   _____
+         \ \        / /  __ \ / ____|
+          \ \  /\  / /| |__) | (___   ___  __ _ _ __ ®
+           \ \/  \/ / |  ___/ \___ \ / __|/ _` | '_ \
+            \  /\  /  | |     ____) | (__| (_| | | | |
+             \/  \/   |_|    |_____/ \___|\__,_|_| |_|
+
+         WordPress Security Scanner by the WPScan Team
+                         Version 3.8.20
+       Sponsored by Automattic - https://automattic.com/
+       @_WPScan_, @ethicalhack3r, @erwan_lr, @firefart
+_______________________________________________________________
+
+[32m[+][0m URL: https://www.fundacionalimerka.es/ [212.89.22.170]
+[32m[+][0m Started: Mon Jun  6 12:37:27 2022
+
+Interesting Finding(s):
+
+[32m[+][0m Headers
+ | Interesting Entries:
+ |  - Server: Apache/2.4.53 (codeit) OpenSSL/1.1.1k mod_jk/1.2.46
+ |  - X-Powered-By: PHP/8.0.17
+ |  - Referrer-Policy: no-referrer-when-downgrade
+ |  - Content-Security-Policy: block-all-mixed-content
+ | Found By: Headers (Passive Detection)
+ | Confidence: 100%
+
+[32m[+][0m WordPress version 5.8.3 identified (Insecure, released on 2022-01-06).
+ | Found By: Rss Generator (Passive Detection)
+ |  - https://www.fundacionalimerka.es/feed/, <generator>https://wordpress.org/?v=5.8.3</generator>
+ |  - https://www.fundacionalimerka.es/comments/feed/, <generator>https://wordpress.org/?v=5.8.3</generator>
+ |
+ | [31m[!][0m 2 vulnerabilities identified:
+ |
+ | [31m[!][0m Title: WordPress < 5.9.2 - Prototype Pollution in jQuery
+ |     Fixed in: 5.8.4
+ |     References:
+ |      - https://wpscan.com/vulnerability/1ac912c1-5e29-41ac-8f76-a062de254c09
+ |      - https://wordpress.org/news/2022/03/wordpress-5-9-2-security-maintenance-release/
+ |
+ | [31m[!][0m Title: WordPress < 5.9.2 / Gutenberg < 12.7.2 - Prototype Pollution via Gutenberg’s wordpress/url package
+ |     Fixed in: 5.8.4
+ |     References:
+ |      - https://wpscan.com/vulnerability/6e61b246-5af1-4a4f-9ca8-a8c87eb2e499
+ |      - https://wordpress.org/news/2022/03/wordpress-5-9-2-security-maintenance-release/
+ |      - https://github.com/WordPress/gutenberg/pull/39365/files
+
+[32m[+][0m WordPress theme in use: Avada
+ | Location: https://www.fundacionalimerka.es/wp-content/themes/Avada/
+ | Last Updated: 2022-04-20T12:58:35.000Z
+ | [33m[!][0m The version is out of date, the latest version is 7.7.1
+ | Style URL: https://www.fundacionalimerka.es/wp-content/themes/Avada/style.css
+ | Style Name: Avada
+ | Style URI: https://avada.theme-fusion.com/
+ | Description: The Avada Website Builder is the ultimate design and creation suite. Design Anything, Build Everythi...
+ | Author: ThemeFusion
+ | Author URI: https://themeforest.net/user/ThemeFusion
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | [31m[!][0m 1 vulnerability identified:
+ |
+ | [31m[!][0m Title: Fusion Builder < 3.6.2 - Unauthenticated SSRF
+ |     Fixed in: 7.6.2
+ |     References:
+ |      - https://wpscan.com/vulnerability/bf7034ab-24c4-461f-a709-3f73988b536b
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1386
+ |      - https://www.rootshellsecurity.net/rootshell-discovered-a-critical-vulnerability-in-top-wordpress-theme/
+ |      - https://theme-fusion.com/version-7-6-2-security-update/
+ |
+ | Version: 7.6 (80% confidence)
+ | Found By: Style (Passive Detection)
+ |  - https://www.fundacionalimerka.es/wp-content/themes/Avada/style.css, Match: 'Version: 7.6'
+
+
+[34m[i][0m Plugin(s) Identified:
+
+[32m[+][0m cookie-notice
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/cookie-notice/
+ | Last Updated: 2022-06-01T08:39:00.000Z
+ | [33m[!][0m The version is out of date, the latest version is 2.3.0
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | Version: 2.2.1 (10% confidence)
+ | Found By: Query Parameter (Passive Detection)
+ |  - https://www.fundacionalimerka.es/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.2.1
+
+[32m[+][0m fusion-builder
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/fusion-builder/
+ | Latest Version: 3.7
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | [31m[!][0m 1 vulnerability identified:
+ |
+ | [31m[!][0m Title: Fusion Builder < 3.6.2 - Unauthenticated SSRF
+ |     Fixed in: 3.6.2
+ |     References:
+ |      - https://wpscan.com/vulnerability/bf7034ab-24c4-461f-a709-3f73988b536b
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1386
+ |      - https://www.rootshellsecurity.net/rootshell-discovered-a-critical-vulnerability-in-top-wordpress-theme/
+ |      - https://theme-fusion.com/version-7-6-2-security-update/
+ |
+ | The version could not be determined.
+
+[32m[+][0m fusion-core
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/fusion-core/
+ | Latest Version: 5.7
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | The version could not be determined.
+
+[32m[+][0m popup-builder
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/popup-builder/
+ | Latest Version: 4.1.10
+ | Last Updated: 2022-05-31T08:24:00.000Z
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ |
+ | [31m[!][0m 7 vulnerabilities identified:
+ |
+ | [31m[!][0m Title: Popup Builder <= 3.44 - SQL Injection
+ |     Fixed in: 3.45
+ |     References:
+ |      - https://wpscan.com/vulnerability/6de2c4fc-2b0d-427e-8108-5503659f6ba2
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14695
+ |      - https://fortiguard.com/zeroday/FG-VD-19-102
+ |      - https://www.fortinet.com/blog/threat-research/wordpress-plugin-sql-injection-vulnerability.html
+ |
+ | [31m[!][0m Title: Popup Builder < 3.0 - SQL injection via PHP Deserialization
+ |     Fixed in: 3.0
+ |     References:
+ |      - https://wpscan.com/vulnerability/2ab5c75b-b390-4aa6-aa0b-c1d4e1e3e737
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-9006
+ |      - https://zeroauth.ltd/blog/2020/02/16/cve-2020-9006-popup-builder-wp-plugin-sql-injection-via-php-deserialization/
+ |
+ | [31m[!][0m Title: Popup Builder < 3.64.1 - Multiple Issues
+ |     Fixed in: 3.64.1
+ |     References:
+ |      - https://wpscan.com/vulnerability/d2df1d73-ed0f-4911-b827-998384f937b4
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10196
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10195
+ |      - https://www.wordfence.com/blog/2020/03/vulnerabilities-patched-in-popup-builder-plugin-affecting-over-100000-sites/
+ |
+ | [31m[!][0m Title: Popup Builder < 3.74 - Authenticated Reflected Cross-Site Scripting (XSS)
+ |     Fixed in: 3.74
+ |     References:
+ |      - https://wpscan.com/vulnerability/597e9686-f4e2-43bf-85ef-c5967e5652bd
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-24152
+ |
+ | [31m[!][0m Title: Popup Builder < 4.0.7 - LFI to RCE
+ |     Fixed in: 4.0.7
+ |     References:
+ |      - https://wpscan.com/vulnerability/0f90f10c-4b0a-46da-ac1f-aa6a03312132
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25082
+ |      - https://plugins.trac.wordpress.org/changeset/2659117
+ |
+ | [31m[!][0m Title: Popup Builder < 4.0.7 - Admin+ SQL Injection
+ |     Fixed in: 4.0.7
+ |     References:
+ |      - https://wpscan.com/vulnerability/22facac2-52f4-4e5f-be59-1d2934b260d9
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0228
+ |      - https://plugins.trac.wordpress.org/changeset/2659117
+ |
+ | [31m[!][0m Title: Popup Builder < 4.1.1 - SQL Injection to Reflected Cross-Site Scripting
+ |     Fixed in: 4.1.1
+ |     References:
+ |      - https://wpscan.com/vulnerability/0d2bbbaf-fbfd-4921-ba4e-684e2e77e816
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0479
+ |      - https://plugins.trac.wordpress.org/changeset/2686454
+ |
+ | The version could not be determined.
+
+[32m[+][0m revslider
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/revslider/
+ | Last Updated: 2022-05-25T19:09:55.000Z
+ | [33m[!][0m The version is out of date, the latest version is 6.5.24
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By:
+ |  Urls In 404 Page (Passive Detection)
+ |  Meta Generator (Passive Detection)
+ |
+ | Version: 6.5.11 (60% confidence)
+ | Found By: Meta Generator (Passive Detection)
+ |  - https://www.fundacionalimerka.es/, Match: 'Powered by Slider Revolution 6.5.11'
+
+[32m[+][0m vfb-pro
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/vfb-pro/
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | The version could not be determined.
+
+[32m[+][0m wordpress-seo
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/wordpress-seo/
+ | Last Updated: 2022-05-31T12:04:00.000Z
+ | [33m[!][0m The version is out of date, the latest version is 19.0
+ |
+ | Found By: Comment (Passive Detection)
+ |
+ | Version: 17.8 (60% confidence)
+ | Found By: Comment (Passive Detection)
+ |  - https://www.fundacionalimerka.es/, Match: 'optimized with the Yoast SEO plugin v17.8 -'
+
+[32m[+][0m wp-live-chat-support
+ | Location: https://www.fundacionalimerka.es/wp-content/plugins/wp-live-chat-support/
+ | Latest Version: 10.0.3
+ | Last Updated: 2022-06-06T07:18:00.000Z
+ |
+ | Found By: Urls In Homepage (Passive Detection)
+ | Confirmed By: Urls In 404 Page (Passive Detection)
+ |
+ | [31m[!][0m 13 vulnerabilities identified:
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 4.4.0 - Unauthenticated Blind SQL Injection
+ |     Fixed in: 4.4.0
+ |     References:
+ |      - https://wpscan.com/vulnerability/6af4e134-0ceb-4876-b4fe-4a2d9c4b9e6d
+ |      - http://cinu.pl/research/wp-plugins/mail_f9d4050b7cadfab4c84acb4589fdd161.html
+ |      - http://blog.cinu.pl/2015/11/php-static-code-analysis-vs-top-1000-wordpress-plugins.html
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 6.2.02 - Stored Cross-Site Scripting
+ |     Fixed in: 6.2.02
+ |     References:
+ |      - https://wpscan.com/vulnerability/d6daabea-5e19-4c20-b13a-5d34f6f3a0eb
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10879
+ |      - https://sumofpwn.nl/advisory/2016/persistent_cross_site_scripting_in_wp_live_chat_support_plugin.html
+ |      - https://seclists.org/fulldisclosure/2016/Jul/24
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 6.2.04 - Stored Cross-Site Scripting (XSS)
+ |     Fixed in: 6.2.04
+ |     References:
+ |      - https://wpscan.com/vulnerability/5587dc18-d1f3-4c8b-820e-b9315165605f
+ |      - https://seclists.org/fulldisclosure/2016/Aug/3
+ |      - https://sumofpwn.nl/advisory/2016/stored_cross_site_scripting_vulnerability_in_wp_live_chat_support_wordpress_plugin.html
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 7.0.07 - Cross-Site Scripting (XSS)
+ |     Fixed in: 7.0.07
+ |     References:
+ |      - https://wpscan.com/vulnerability/1074194e-3b81-4d7b-8745-c93cdba3afaa
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-2187
+ |      - https://plugins.trac.wordpress.org/changeset/1658232/
+ |      - https://jvn.jp/en/jp/JVN70951878/index.html
+ |      - https://rastating.github.io/wp-live-chat-support-7-0-06-reflected-xss
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 7.1.05 - Cross-Site Scripting (XSS) 
+ |     Fixed in: 7.1.05
+ |     References:
+ |      - https://wpscan.com/vulnerability/23043a51-ccf7-499c-90f9-44cee5812938
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18507
+ |      - https://plugins.trac.wordpress.org/changeset/1706931/wp-live-chat-support
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 8.0.06 - Unauthenticated Stored XSS
+ |     Fixed in: 8.0.06
+ |     References:
+ |      - https://wpscan.com/vulnerability/7d0b7476-7e11-434e-b1c7-85ea7a3b0f7e
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-9864
+ |      - https://www.gubello.me/blog/wp-live-chat-support-8-0-05-stored-xss/
+ |      - https://plugins.trac.wordpress.org/changeset/1845436/wp-live-chat-support
+ |      - https://www.youtube.com/watch?v=eHG1pWaez9w
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 8.0.08 - Cross-Site Scripting (XSS)
+ |     Fixed in: 8.0.08
+ |     References:
+ |      - https://wpscan.com/vulnerability/0df5c464-833e-4042-a9ec-ceeb72d49185
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10234
+ |      - https://github.com/RiieCco/write-ups/tree/master/CVE-2018-11105
+ |      - https://plugins.trac.wordpress.org/changeset/1874093/wp-live-chat-support
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 8.0.18 - Cross-Site Scripting (XSS)
+ |     Fixed in: 8.0.18
+ |     References:
+ |      - https://wpscan.com/vulnerability/f41711fd-9ab0-4caa-82a6-8ec9e908af5e
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9913
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18460
+ |      - https://security-consulting.icu/blog/2019/02/wordpress-wp-livechat-xss/
+ |      - https://lists.openwall.net/full-disclosure/2019/02/05/14
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 8.0.27 - Unauthenticated Stored XSS
+ |     Fixed in: 8.0.27
+ |     References:
+ |      - https://wpscan.com/vulnerability/bf214e77-1bc4-4ec2-8812-685cdcf98a77
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-14950
+ |      - https://blog.sucuri.net/2019/05/persistent-cross-site-scripting-in-wp-live-chat-support-plugin.html
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 4.1.0 - XSS
+ |     Fixed in: 4.1.0
+ |     References:
+ |      - https://wpscan.com/vulnerability/ae5d5fe1-ac99-40dc-bbed-923a902c6a07
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-10386
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 7.1.03 - XSS
+ |     Fixed in: 1.7.03
+ |     References:
+ |      - https://wpscan.com/vulnerability/eaef7049-c487-47ce-986d-a05f052f0b9a
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18508
+ |
+ | [31m[!][0m Title: WP Live Chat Support < 8.0.33 - Missing Permission Checks on some REST API Calls
+ |     Fixed in: 8.0.33
+ |     References:
+ |      - https://wpscan.com/vulnerability/447c8090-d37e-406d-826c-4e1322beb727
+ |      - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12498
+ |
+ | [31m[!][0m Title: WP-Live Chat by 3CX < 8.2.0 - Authenticated Stored Cross-Site Scripting
+ |     Fixed in: 8.2.0
+ |     References:
+ |      - https://wpscan.com/vulnerability/07b184e9-ce38-4aed-8b7c-fc1ac2e8f3dd
+ |      - https://plugins.trac.wordpress.org/changeset/2339079
+ |
+ | The version could not be determined.
+
+
+[34m[i][0m No Config Backups Found.
+
+[32m[+][0m WPScan DB API OK
+ | Plan: free
+ | Requests Done (during the scan): 10
+ | Requests Remaining: 65
+
+[32m[+][0m Finished: Mon Jun  6 12:37:33 2022
+[32m[+][0m Requests Done: 20
+[32m[+][0m Cached Requests: 5
+[32m[+][0m Data Sent: 5.164 KB
+[32m[+][0m Data Received: 407.399 KB
+[32m[+][0m Memory used: 212.348 MB
+[32m[+][0m Elapsed time: 00:00:06

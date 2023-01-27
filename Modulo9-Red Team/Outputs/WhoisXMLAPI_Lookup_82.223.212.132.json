@@ -1,0 +1,274 @@
+{
+	"count": 4,
+	"limit": 100,
+	"inetnums": [
+		{
+			"inetnum": "82.223.0.0 - 82.223.255.255",
+			"inetnumFirst": 281472072089600,
+			"inetnumLast": 281472072155135,
+			"inetnumFirstString": "281472072089600",
+			"inetnumLastString": "281472072155135",
+			"as": {
+				"asn": 8560,
+				"name": "IONOS-AS",
+				"type": "NSP",
+				"route": "82.223.0.0/16",
+				"domain": "oneandone.net"
+			},
+			"netname": "ES-ARSYS-20031222",
+			"nethandle": "",
+			"description": [],
+			"modified": "2017-02-16T10:59:21Z",
+			"country": "ES",
+			"city": "",
+			"address": [],
+			"abuseContact": [],
+			"adminContact": [
+				{
+					"id": "ERO2-RIPE",
+					"person": "Enrique Roldan",
+					"email": "eroldan@arsys.es",
+					"phone": "+34 941 620100",
+					"country": "",
+					"city": "",
+					"address": [
+						"arsys.es",
+						"C/ Chile 54",
+						"26007 Logrono (La Rioja)",
+						"SPAIN"
+					]
+				}
+			],
+			"techContact": [
+				{
+					"id": "ERO2-RIPE",
+					"person": "Enrique Roldan",
+					"email": "eroldan@arsys.es",
+					"phone": "+34 941 620100",
+					"country": "",
+					"city": "",
+					"address": [
+						"arsys.es",
+						"C/ Chile 54",
+						"26007 Logrono (La Rioja)",
+						"SPAIN"
+					]
+				}
+			],
+			"org": {
+				"org": "ORG-AIS2-RIPE",
+				"name": "ARSYS INTERNET S.L.",
+				"email": "eroldan@arsys.es\nnetworks-arsys@arsys.es\nripe@arsys.es\ntmontero@arsys.es",
+				"phone": "+34 941 620100\n+34 941 620112",
+				"country": "ES",
+				"city": "",
+				"postalCode": "",
+				"address": [
+					"Calle Chile no 54",
+					"26007",
+					"Logrono",
+					"SPAIN"
+				]
+			},
+			"mntBy": [
+				{
+					"mntner": "ARSYS-RIPE-MNT",
+					"email": ""
+				},
+				{
+					"mntner": "RIPE-NCC-HM-MNT",
+					"email": ""
+				}
+			],
+			"mntDomains": [],
+			"mntLower": [],
+			"mntRoutes": [
+				{
+					"mntner": "ARSYS-RIPE-MNT",
+					"email": ""
+				}
+			],
+			"remarks": [],
+			"source": "RIPE"
+		},
+		{
+			"inetnum": "82.0.0.0 - 82.255.255.255",
+			"inetnumFirst": 281472057475072,
+			"inetnumLast": 281472074252287,
+			"inetnumFirstString": "281472057475072",
+			"inetnumLastString": "281472074252287",
+			"as": null,
+			"netname": "RIPE-CIDR-BLOCK",
+			"nethandle": "",
+			"description": [
+				"Not allocated by APNIC"
+			],
+			"modified": "2008-09-04T06:51:29Z",
+			"country": "AU",
+			"city": "",
+			"address": [],
+			"abuseContact": [],
+			"adminContact": [
+				{
+					"id": "IANA1-AP",
+					"role": "Internet Assigned Numbers Authority",
+					"email": "",
+					"phone": "",
+					"country": "",
+					"city": "",
+					"address": [
+						"see http://www.iana.org."
+					]
+				}
+			],
+			"techContact": [
+				{
+					"id": "IANA1-AP",
+					"role": "Internet Assigned Numbers Authority",
+					"email": "",
+					"phone": "",
+					"country": "",
+					"city": "",
+					"address": [
+						"see http://www.iana.org."
+					]
+				}
+			],
+			"org": null,
+			"mntBy": [
+				{
+					"mntner": "MAINT-APNIC-AP",
+					"email": "helpdesk@apnic.net\nnetops@apnic.net"
+				}
+			],
+			"mntDomains": [],
+			"mntLower": [
+				{
+					"mntner": "MAINT-APNIC-AP",
+					"email": "helpdesk@apnic.net\nnetops@apnic.net"
+				}
+			],
+			"mntRoutes": [],
+			"remarks": [
+				"------------------------------------------------------",
+				"",
+				"Important:",
+				"",
+				"Details of networks in this range are not registered",
+				"in the APNIC Whois Database.",
+				"",
+				"Please search the RIPE Whois Database, which contains",
+				"details of IP addresses allocated in Europe, the",
+				"Middle East, and northern Africa:",
+				"",
+				"website:      http://www.ripe.net/perl/whois",
+				"command line: whois.ripe.net",
+				"",
+				"------------------------------------------------------"
+			],
+			"source": "APNIC"
+		},
+		{
+			"inetnum": "0.0.0.0 - 255.255.255.255",
+			"inetnumFirst": 281470681743360,
+			"inetnumLast": 281474976710655,
+			"inetnumFirstString": "281470681743360",
+			"inetnumLastString": "281474976710655",
+			"as": null,
+			"netname": "IANA-IPV4-MAPPED-ADDRESS",
+			"nethandle": "NET6-0-0-0-0-0-FFFF-1",
+			"description": [],
+			"modified": "2022-02-26T00:00:00Z",
+			"country": "US",
+			"city": "Los Angeles",
+			"address": [
+				"12025 Waterfront Drive",
+				"Suite 300"
+			],
+			"abuseContact": [],
+			"adminContact": [],
+			"techContact": [],
+			"org": {
+				"org": "IANA",
+				"name": "Internet Assigned Numbers Authority",
+				"email": "abuse@iana.org",
+				"phone": "+1-310-301-5820",
+				"country": "US",
+				"city": "Los Angeles",
+				"postalCode": "90292",
+				"address": [
+					"12025 Waterfront Drive",
+					"Suite 300"
+				]
+			},
+			"mntBy": [],
+			"mntDomains": [],
+			"mntLower": [],
+			"mntRoutes": [],
+			"remarks": [
+				"IPv4-mapped Address [RFC4291]"
+			],
+			"source": "ARIN"
+		},
+		{
+			"inetnum": ":: - ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+			"inetnumFirst": 0,
+			"inetnumLast": 3.402823669209385e+38,
+			"inetnumFirstString": "0",
+			"inetnumLastString": "340282366920938463463374607431768211455",
+			"as": null,
+			"netname": "IANA-BLK",
+			"nethandle": "",
+			"description": [
+				"The whole IPv6 address space"
+			],
+			"modified": "2022-05-23T14:49:16Z",
+			"country": "EU",
+			"city": "",
+			"address": [],
+			"abuseContact": [],
+			"adminContact": [],
+			"techContact": [],
+			"org": {
+				"org": "ORG-IANA1-RIPE",
+				"name": "Internet Assigned Numbers Authority",
+				"email": "bitbucket@ripe.net",
+				"phone": "",
+				"country": "",
+				"city": "",
+				"postalCode": "",
+				"address": [
+					"see http://www.iana.org"
+				]
+			},
+			"mntBy": [
+				{
+					"mntner": "RIPE-NCC-HM-MNT",
+					"email": ""
+				}
+			],
+			"mntDomains": [],
+			"mntLower": [
+				{
+					"mntner": "RIPE-NCC-HM-MNT",
+					"email": ""
+				}
+			],
+			"mntRoutes": [],
+			"remarks": [
+				"This network is not allocated.",
+				"This object is here for Database",
+				"consistency and to allow hierarchical",
+				"authorisation checks.",
+				"****************************",
+				"* THIS OBJECT IS MODIFIED",
+				"* Please note that all data that is generally regarded as personal",
+				"* data has been removed from this object.",
+				"* To view the original object, please query the RIPE Database at:",
+				"* http://www.ripe.net/whois",
+				"****************************"
+			],
+			"source": "RIPE"
+		}
+	]
+}

@@ -1,0 +1,214 @@
+{
+	"count": 3,
+	"limit": 100,
+	"inetnums": [
+		{
+			"inetnum": "195.235.117.0 - 195.235.117.31",
+			"inetnumFirst": 281473968731392,
+			"inetnumLast": 281473968731423,
+			"inetnumFirstString": "281473968731392",
+			"inetnumLastString": "281473968731423",
+			"as": {
+				"asn": 3352,
+				"name": "Telefonica_de_Espana",
+				"type": "Cable/DSL/ISP",
+				"route": "195.235.0.0/16",
+				"domain": "http://www.telefonica.es/"
+			},
+			"netname": "ALIMERKA",
+			"nethandle": "",
+			"description": [
+				"ALIMERKA S.A.",
+				"Internet Public Addresses"
+			],
+			"modified": "2010-02-15T11:09:54Z",
+			"country": "ES",
+			"city": "",
+			"address": [],
+			"abuseContact": [],
+			"adminContact": [
+				{
+					"id": "IB369-RIPE",
+					"person": "IVAN BUSTO",
+					"email": "informatica@alimerka.es",
+					"phone": "+34 985791679",
+					"country": "",
+					"city": "",
+					"address": [
+						"Carretera de Oviedo-Gijon 9;8",
+						"33192 PRUVIA (LLANERA) ASTURIAS",
+						"SPAIN",
+						"ALIMERKA S.A."
+					]
+				}
+			],
+			"techContact": [
+				{
+					"id": "IB369-RIPE",
+					"person": "IVAN BUSTO",
+					"email": "informatica@alimerka.es",
+					"phone": "+34 985791679",
+					"country": "",
+					"city": "",
+					"address": [
+						"Carretera de Oviedo-Gijon 9;8",
+						"33192 PRUVIA (LLANERA) ASTURIAS",
+						"SPAIN",
+						"ALIMERKA S.A."
+					]
+				}
+			],
+			"org": null,
+			"mntBy": [
+				{
+					"mntner": "MAINT-AS3352",
+					"email": "***@telefonica-data.com\n***@telefonica.es\n***@ttd.net"
+				}
+			],
+			"mntDomains": [],
+			"mntLower": [],
+			"mntRoutes": [],
+			"remarks": [],
+			"source": "RIPE"
+		},
+		{
+			"inetnum": "195.55.213.0 - 195.55.213.255",
+			"inetnumFirst": 281473956959488,
+			"inetnumLast": 281473956959743,
+			"inetnumFirstString": "281473956959488",
+			"inetnumLastString": "281473956959743",
+			"as": {
+				"asn": 3352,
+				"name": "Telefonica_de_Espana",
+				"type": "Cable/DSL/ISP",
+				"route": "195.55.0.0/16",
+				"domain": "http://www.telefonica.es/"
+			},
+			"netname": "ALIMERKA",
+			"nethandle": "",
+			"description": [
+				"ALIMERKA S.A.",
+				"Internet Public Addresses",
+				"__"
+			],
+			"modified": "2020-02-04T08:02:51Z",
+			"country": "ES",
+			"city": "",
+			"address": [],
+			"abuseContact": [],
+			"adminContact": [
+				{
+					"id": "RO3987-RIPE",
+					"person": "ROBERTO GONZALEZ",
+					"email": "robergo@alimerka.es",
+					"phone": "+34686975058",
+					"country": "",
+					"city": "",
+					"address": [
+						"OVIEDO GIJON KM 9",
+						"PRUVIA LLANERA ASTURIAS",
+						"ALIMERKA SA",
+						"SPAIN"
+					]
+				}
+			],
+			"techContact": [
+				{
+					"id": "RO3987-RIPE",
+					"person": "ROBERTO GONZALEZ",
+					"email": "robergo@alimerka.es",
+					"phone": "+34686975058",
+					"country": "",
+					"city": "",
+					"address": [
+						"OVIEDO GIJON KM 9",
+						"PRUVIA LLANERA ASTURIAS",
+						"ALIMERKA SA",
+						"SPAIN"
+					]
+				}
+			],
+			"org": null,
+			"mntBy": [
+				{
+					"mntner": "MAINT-AS3352",
+					"email": "***@telefonica-data.com\n***@telefonica.es\n***@ttd.net"
+				}
+			],
+			"mntDomains": [],
+			"mntLower": [],
+			"mntRoutes": [],
+			"remarks": [],
+			"source": "RIPE"
+		},
+		{
+			"inetnum": "194.224.45.184 - 194.224.45.191",
+			"inetnumFirst": 281473951215032,
+			"inetnumLast": 281473951215039,
+			"inetnumFirstString": "281473951215032",
+			"inetnumLastString": "281473951215039",
+			"as": {
+				"asn": 3352,
+				"name": "Telefonica_de_Espana",
+				"type": "Cable/DSL/ISP",
+				"route": "194.224.0.0/16",
+				"domain": "http://www.telefonica.es/"
+			},
+			"netname": "ALIMERKASA",
+			"nethandle": "",
+			"description": [
+				"Alimerka S.A.",
+				"Internet Public Addresses"
+			],
+			"modified": "2009-05-27T09:08:44Z",
+			"country": "ES",
+			"city": "",
+			"address": [],
+			"abuseContact": [],
+			"adminContact": [
+				{
+					"id": "JLR1-RIPE",
+					"person": "JOSE LUIS REY",
+					"email": "informatica@alimerka.es",
+					"phone": "+34 985791679",
+					"country": "",
+					"city": "",
+					"address": [
+						"ALIMERKA S.A.",
+						"Ctra. Oviedo-Gij�n Km 9",
+						"33192 llanera",
+						"SPAIN"
+					]
+				}
+			],
+			"techContact": [
+				{
+					"id": "JLR1-RIPE",
+					"person": "JOSE LUIS REY",
+					"email": "informatica@alimerka.es",
+					"phone": "+34 985791679",
+					"country": "",
+					"city": "",
+					"address": [
+						"ALIMERKA S.A.",
+						"Ctra. Oviedo-Gij�n Km 9",
+						"33192 llanera",
+						"SPAIN"
+					]
+				}
+			],
+			"org": null,
+			"mntBy": [
+				{
+					"mntner": "MAINT-AS3352",
+					"email": "***@telefonica-data.com\n***@telefonica.es\n***@ttd.net"
+				}
+			],
+			"mntDomains": [],
+			"mntLower": [],
+			"mntRoutes": [],
+			"remarks": [],
+			"source": "RIPE"
+		}
+	]
+}

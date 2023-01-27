@@ -1,0 +1,14 @@
+fuzzer,domain,dns_a,dns_aaaa,dns_ns,dns_mx,geoip
+*original,alimerka.com,217.76.128.220,,dns1.serv476456.servidoresdns.net,,Spain
+bitsquatting,alimarka.com,23.227.38.65,,ns235.websitewelcome.com,mail.alimarka.com,Canada
+bitsquatting,alimerca.com,52.71.57.184,,ns1.namebrightdns.com,,United States
+dictionary,alimerkaonline.com,217.76.128.35,,dns3.servidoresdns.net,mx.serviciodecorreo.es,Spain
+omission,alimera.com,78.46.80.98,,ns0.artsatweb.de,,Germany
+subdomain,al.imerka.com,3.130.204.160,,ns1.namebrightdns.com,,United States
+subdomain,alim.erka.com,95.211.219.66,,,,Netherlands
+tld-swap,alimerka.biz,!ServFail,!ServFail,!ServFail,,
+tld-swap,alimerka.info,82.223.212.132,,dns1.serv476456.servidoresdns.net,mx.serviciodecorreo.es,Spain
+tld-swap,alimerka.net,!ServFail,!ServFail,!ServFail,,
+tld-swap,alimerka.online,!ServFail,!ServFail,!ServFail,,
+tld-swap,alimerka.org,!ServFail,!ServFail,!ServFail,,
+vowel-swap,alimerko.com,76.76.21.21,,ns-cloud-d1.googledomains.com,,United States
